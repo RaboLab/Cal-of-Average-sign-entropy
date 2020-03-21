@@ -115,12 +115,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="calcu.cpp" />
     <ClCompile Include="process.cpp" />
     <ClCompile Include="源.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="calcu.h" />
     <ClInclude Include="include.h" />
     <ClInclude Include="process.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="calcu!.txt" />
+    <Text Include="test.txt" />
+    <Text Include="wuhu!.txt" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

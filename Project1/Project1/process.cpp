@@ -3,6 +3,7 @@
 string process(void) {
 	filebuf *pbuf;
 	fstream filestr;
+	ofstream out;
 	ostringstream os;
 	long size;
 	char* buffer;
@@ -24,17 +25,35 @@ string process(void) {
 
 	filestr.close();
 	// 输出到标准输出
-	cout.write(buffer, size);
+
 	string str = buffer;
 	delete[] buffer;
-	os << str;
-	cout << os.str();
+
 	for (int i = 0; i < str.length(); i++) {		//erase后长度会变动
-		if (str[i] >= 'A' && str[i] <= 'Z') str[i] += 32;  //特殊符号处理咋办？？？ 
-		else if (str[i] >= '0' && str[i] <= '9') str.erase(i, 1);
+		if (str[i] >= 'A' && str[i] <= 'Z') str[i] += 32;  //特殊符号处理咋办？？？ //str.erase(i, 1)
 		else if (str[i] >= 'a' && str[i] <= 'z');
-		else if (str[i] = ' ');
-		else 
+		else str[i] = ' ';
 	}
+	//先把特殊符号改成" ", 然后遇见多个空格恢复成一个
+	int mark = 1;
+	while (mark) {
+		mark = 0;
+		for (int i = 0; i < str.length()-1; i++) {		
+			if (str[i] == ' ' && str[i + 1] == ' ') {
+				mark = 1;
+				str.erase(i, 1);
+			}
+		}
+	}
+
+	//--------------------输出,可直接删除--------------------
+	FILE *fp;		//debug部分,检查输出，通过！
+	fopen_s(&fp,"wuhu!.txt", "w");
+
+	fprintf(fp, str.c_str());
+
+	fclose(fp);
+	//------------------------------------------------------
+
 	return str;
 }

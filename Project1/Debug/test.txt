@@ -1,1 +1,2267 @@
-hello！！！
+Worldwide, as millions of people stay at home to minimise transmission of severe acute respiratory syndrome coronavirus 2, health-care workers prepare to do the exact opposite. They will go to clinics and hospitals, putting themselves at high risk from COVID-2019. Figures from China's National Health Commission show that more than 3300 health-care workers have been infected as of early March and, according to local media, by the end of February at least 22 had died. In Italy, 20% of responding health-care workers were infected, and some have died. Reports from medical staff describe physical and mental exhaustion, the torment of difficult triage decisions, and the pain of losing patients and colleagues, all in addition to the infection risk.
+As the pandemic accelerates, access to personal protective equipment (PPE) for health workers is a key concern. Medical staff are prioritised in many countries, but PPE shortages have been described in the most affected facilities. Some medical staff are waiting for equipment while already seeing patients who may be infected or are supplied with equipment that might not meet requirements. Alongside concerns for their personal safety, health-care workers are anxious about passing the infection to their families. Health-care workers who care for elderly parents or young children will be drastically affected by school closures, social distancing policies, and disruption in the availability of food and other essentials.
+Health-care systems globally could be operating at more than maximum capacity for many months. But health-care workers, unlike ventilators or wards, cannot be urgently manufactured or run at 100% occupancy for long periods. It is vital that governments see workers not simply as pawns to be deployed, but as human individuals. In the global response, the safety of health-care workers must be ensured. Adequate provision of PPE is just the first step; other practical measures must be considered, including cancelling non-essential events to prioritise resources; provision of food, rest, and family support; and psychological support. Presently, health-care workers are every country's most valuable resource.
+
+Summary
+Background
+We aimed to evaluate and improve the accuracy of the ultrasound scan in estimating gestational age in late pregnancy (ie, after 24 weeks' gestation) in low-income and middle-income countries (LMICs), where access to ultrasound in the first half of pregnancy is rare and where intrauterine growth restriction is prevalent.
+Methods
+This prospective, population-based, cohort study was done in three LMICs (Bangladesh, Pakistan, and Tanzania) participating in the WHO Alliance for Maternal and Newborn Health Improvement study. Women carrying a live singleton fetus dated by crown-rump length (CRL) measurements between 8+0–14+6 weeks of gestation, who were willing to return for two additional ultrasound scans, and who planned on delivering in the study area were enrolled in the study. Participants underwent ultrasonography at 24+0–29+6 weeks and at 30+0–36+6 weeks' gestation. Birthweights were measured within 72 h of birth, and the proportions of infants who had a small-for-gestational-age birthweight (ie, a birthweight <10% of the standard birthweight for the infant's gestational age and sex according to the INTERGROWTH-21st project newborn baby reference standards) and appropriate-for-gestational-age birthweights were ascertained. Estimation of gestational age by standard fetal biometry measurements in addition to transcerebellar diameter (TCD) measurements was compared with gold-standard CRL measurements by use of Bland-Altman plots to calculate the mean difference and 95% limits of agreement. Statistical modelling was done to develop new gestational age prediction formulas for third trimester ultrasonography in LMICs.
+Findings
+Between Feb 7, 2015, and Jan 9, 2017, 1947 women were enrolled in the study. 1387 pregnant women had an ultrasound scan at 24+0–29+6 weeks of gestation and 1403 had an ultrasound scan between 30+0–36+6 weeks of gestation. Of the 1379 unique infants whose birthweights were available, 981 (71·1%) infants were born with an appropriate-for-gestational-age birthweight and 398 (28·9%) infants were born with a small-for-gestational-age birthweight. The accuracy of late pregnancy ultrasound biometry using existing formulas to estimate gestational age in LMICs was similar to that in high-income settings. With standard dating formulas, late pregnancy ultrasound at 24+0–29+6 weeks' gestation was accurate to within approximately plus or minus 2 weeks of the gold-standard CRL measurement of gestational age, and late pregnancy ultrasound was accurate to within ±3 weeks of the CRL measurement at 30+0–36+6 weeks' gestation. In infants who were ultimately born small for gestational age, individual parameters systematically underestimated gestational age, apart from TCD, which showed minimal bias. By use of a novel parsimonious model formula that combined TCD with femur length, gestational age at the 24+0 −29+6-week ultrasound scan was estimated to within ±10·5 days of the CRL measurement and estimated to within ±15·1 days of the CRL measurement at the 30+0–36+6-week ultrasound scan. Similar results were observed in infants who were small-for-gestational-age.
+Interpretation
+Incorporation of TCD and the use of new formulas in late pregnancy ultrasound scans could improve the accuracy of gestational age estimation in both appropriate-for-gestational-age and small-for-gestational-age infants in LMICs. Given the high rates of small-for-gestational-age infants in LMICs, these results might be especially relevant. Validation of this new formula in other LMIC populations is needed to establish whether the accuracy of the late pregnancy ultrasound can be narrowed to within approximately 2 weeks.
+Funding
+Bill & Melinda Gates Foundation.
+• View related content for this article
+
+Research in context
+Evidence before this study
+The performance of late pregnancy ultrasound for assessing gestational age has been understudied in low-income and middle-income countries (LMICs), where access to ultrasound for gestational age dating early in pregnancy is rare and where a high proportion of infants are born small-for-gestational age. In high-income settings, the transcerebellar diameter (TCD) has shown promise as a biometric parameter that is less affected by intrauterine growth restriction than standard ultrasound biometric measurements, but this parameter is not routinely used, as most women in high-income settings present earlier (<20 weeks of gestation) for ultrasound confirmation of gestational age.
+Added value of this study
+In this multicountry, population-based, cohort study, we compared the performance of standard ultrasound biometric parameters and TCD with the gold-standard method of first trimester crown-rump length (CRL) measurements for estimating gestational age in late pregnancy (ie, after 24 weeks' gestation). The accuracy of ultrasonography in estimating gestational age in late pregnancy in LMICs was similar to that reported in high-income settings, but it was further improved when TCD was included in the combination formulas for gestational age assessment. We derived a parsimonious model, requiring measurement of only the TCD and the femur length, that was accurate to within approximately plus or minus 2 weeks of the gold-standard CRL measurement of gestational age, even among infants who were ultimately born small-for-gestational-age. Our study was population-based, enrolling an unselected group of pregnant women rather than a selected group of only the healthiest pregnant women; therefore, we believe our novel gestational age formula is more generalisable to real-world conditions that health-care practitioners in LMICs face.
+Implications of all the available evidence
+In LMICs, gestational age in late pregnancy can be reliably assessed to within approximately ±2 weeks of the CRL measurement by use of only two ultrasound parameters. These results were consistent when our gestational age formulas were applied to pregnancies in which the infants were ultimately born small for gestational age. Our formulas could be most useful when measuring gestational age in pregnant women who present late to receive antenatal care in LMICs, where the burden of intrauterine growth restriction is high. The biometric ultrasound measurements used in our study appear to be attainable by health-care providers with limited sonography training. Accurate gestational age dating can enable providers to identify pregnancies requiring antenatal interventions, such as corticosteroids or transfer to a facility that is able to handle premature infants. Accurate dating will also allow researchers to better estimate the global burden of preterm birth and intrauterine growth restriction.
+Introduction
+Pregnancy dating is an essential component of antenatal care. Accurate estimation of gestational age is needed to optimise provision of obstetric interventions and delivery location for preterm births, and it is also a prerequisite to identify and manage fetal growth abnormalities. Additionally, accurate estimation of gestational age is required to provide reasonable global estimates of preterm birth and intrauterine growth restriction.
+In low-income and middle-income countries (LMICs), where the burden of preterm birth and intrauterine growth restriction is highest,1,  2 assessing gestational age accurately can be challenging because of many factors. For instance, last menstrual period is often unknown, and menstrual cycles can vary in length.3,  4 Symphysis fundal height can be a misleading measure of gestational age because of variation in maternal adiposity, intrauterine growth restriction, uterine fibroids, or malpresentation. The first trimester ultrasound is considered to be the gold-standard method for estimating gestational age in high-income settings,5 but ultrasound early in gestation might not be routinely available in LMICs. In addition, pregnant women in LMICs might not present for antenatal care in early pregnancy. As gestation advances, ultrasound biometry becomes less accurate for estimating gestational age, given the emergence of natural variation in fetal size and the possibility of pathological growth restriction. Indeed, in LMICs, where 19·3% of infants are born small-for-gestational-age,6 the assumption that fetal size predicts gestational age might not be valid.
+Studies7,  8 suggest that measurements of the cerebellum could allow for a more accurate estimation of gestational age late in pregnancy (ie, from 24 weeks' gestation onwards) compared with standard biometry measurements. Cerebellar size appears to be less affected by intrauterine growth restriction than other measures of growth.9 There is also less natural variation in cerebellar size between fetuses. Transcerebellar diameter (TCD) nomograms have been published for several populations,7 but they are not in mainstream use in high-income settings, as most women have early ultrasound scans (at <20 weeks' gestation) when standard biometric measurements (biparietal diameter, head circumference, abdominal circumference, and femur length) are reported to provide an accurate estimation of gestational age (to within plus or minus 1–2 weeks of the gold-standard crown-rump length (CRL) measurement of gestational age).10 Standard biometry does not perform as well in the third trimester as it does at less than 20 weeks' gestation, with a reported accuracy of only ±3 or more weeks of the CRL measurement.11 One study in the USA9 found a strong correlation between cerebellar size and gestational age in infants born with an appropriate-for-gestational-age birthweight and in those born small-for-gestational-age. Even though a small number of studies12,  13 have measured the cerebellum in specific LMICs, the performance of cerebellar biometry for assessing gestational age has been understudied in settings where its use might be of greater benefit.
+The objective of the WHO Alliance for Maternal and Newborn Health Improvement (AMANHI) late pregnancy dating study was to evaluate the accuracy of late pregnancy (ie, after 24 weeks' gestation) ultrasound biometry in estimating gestational age in LMIC settings, with a particular focus on the effect of intrauterine growth restriction on the accuracy and whether cerebellar measurements could improve performance.
+Methods
+ Study design and participants
+The WHO AMANHI study cohort was established in 2010 to harmonise several large ongoing maternal and neonatal health research studies in sub-Saharan Africa and south Asia.14 The study involved five distinct sites (Sylhet, Bangladesh; Karachi, Pakistan; Pemba, Tanzania; Brong Ahafo, Gahna; Southern Province, Zambia). Three of the five AMANHI sites (Sylhet, Karachi, and Pemba) participated in this prospective, multicountry, population-based cohort substudy, known as the WHO AMANHI late pregnancy dating study. The remaining two sites (Brong Ahafo and the Southern Province) were ineligible, having completed AMANHI enrolment. AMANHI study populations were predominantly rural with low levels of literacy. As AMANHI was an unselected, population-based cohort, it was inclusive of both appropriately grown and growth-restricted infants.
+Between Feb 7, 2015, and Jan 9, 2017, pregnant women were identified by trained field workers through home visits. Urine tests for human chorionic gonadotropin were used to confirm pregnancies. Women were eligible for the study if they were pregnant with a live singleton fetus, the pregnancy had been dated by CRL measurements between 8+0 and 14+0 weeks' gestation (CRL of <95 mm),15 they were willing to return for two additional ultrasounds, and they planned on delivering in the study area. Women pregnant with multiple fetuses, or a non-viable or anomalous fetus were ineligible. Fieldworkers obtained written informed consent from participants in their local languages and arranged study ultrasounds to coincide with standard AMANHI visits.
+Ethics approval was granted by institutional review boards and ethics review committees in the participating countries, the host institutions of principal investigators, WHO, and Partners HealthCare (the Boston-based coordinating team).
+ Procedures
+We considered the first trimester ultrasound scan to be the gold-standard method for estimating gestational age. AMANHI study sonographers followed standardised procedures to obtain high-quality transabdominal CRL measurements. Three CRL measurements were obtained for each participant, and the median CRL value and the INTERGROWTH-21st equation15 were used to calculate gestational age. First trimester CRL measurements established the estimated date of delivery and were considered as the gold standard gestational age at all subsequent study visits.
+Study ultrasound procedures were standardised during a 4-day training course in Bangladesh for staff from participating AMANHI sites, and consisted of didactic and practical teaching methods.16 Competency was assessed with written and practical post-training assessments. Staff from Pakistan were unable to attend because of visa issues and they were therefore trained via Skype conferencing. No additional sonographers were recruited during the study period.
+Two ultrasound scans subsequent to the first trimester ultrasound were done for each participant: the first, between 24+0 and 28+6 weeks' gestation, and the second, between 32+0 and 36+6 weeks' gestation, both coinciding with routine AMANHI visits. After study initiation, the gestational age windows were extended to 24+0–29+6 weeks and 30+0–36+0 weeks to cover a wider range of the third trimester; however, only the Pemba site received ethics approval for this extension before study completion. At every ultrasound visit, sonographers followed standardised procedures to obtain high-quality measurements of the biparietal diameter, head circumference, abdominal circumference, femur length, and TCD (appendix p 4).
+Sonographers were masked to the gold-standard gestational age established by CRL measurements. Ultrasound biometry measurements were obtained without the use of an automated biometry software package, so that only absolute measurements were taken. Two measurements for each biometric parameter were obtained and averaged. Plausible measurement ranges were defined for each parameter before the analysis (CRL 2·0–95·0 mm; biparietal diameter 3·0–11·0 cm; head circumference 10·0–40·0 cm; femur length 2·0–9·0 cm; abdominal circumference 12·0–42·0 cm; and TCD 1·5–6·0 cm). For measures outside of these ranges, data were checked for data entry errors and were assigned as missing if unresolved. Gestational age was calculated from each individual biometric parameter by use of standard tables (Hadlock and colleagues17 for biparietal diameter, femur length, and abdominal circumference; Chavez and colleagues18 for TCD; and INTERGROWTH-21st project19 for head circumference). Gestational age was also calculated by use of previously published formulas that combine more than one parameter (Hadlock and colleagues17 and INTERGROWTH-21st project19). Formulas and the reasonable ranges for individual parameters are detailed in the appendix (p 2).
+An image quality checklist provided objective guidance on appropriate image magnification, ideal image plane, and correct calliper placement. All study images were reviewed by BJW, who was masked to the gold-standard gestational age values, for ongoing quality control with quarterly feedback to the sonographers.
+Infants were visited within 72 h of birth. Birthweights were obtained by use of digital scales. Small-for-gestational-age was defined as less than 10% of the standard birthweight for the infant's gestational age and sex according to the INTERGROWTH-21st project newborn baby reference standards.20,  21
+ Statistical analysis
+Study sample size was calculated on the basis of our hypothesis that the gestational age agreement between TCD and CRL would be higher than the agreement between standard biometry and CRL, both among infants with appropriate-for-gestational-age birthweights and among those with small-for-gestational-age birthweights. Previously published literature11 and professional society guidelines5 have shown that late pregnancy biometry combination formulas have a gestational age accuracy of within ±21–30 days of the gold-standard first trimester CRL measurements. By use of overlapping Bland-Altman plots to compare the degree of agreement between TCD versus CRL with standard biometry versus CRL, a sample size of 50 would be adequate to show a mean difference of 0 and 95% limits of agreement (LOA) of within 10 days (TCD vs CRL) versus within 21 days (standard biometry vs CRL) of the CRL-estimated gestational age. We aimed to enrol a minimum of 50 infants with small-for-gestational-age birthweights per site.22,  23 Assuming that 20% of infants would be small-for-gestational-age and that 25% of pregnant women would be lost to follow-up at delivery, we required 333 infants per site; therefore, we had a conservative target of enrolling 400 participants per study site.
+The Stata software programme (StataCorp, Stata Statistical Software: Release 14.1; College Station, TX, USA) was used for all statistical analyses. Bland-Altman plots were used to assess the agreement between gestational age measured by gold-standard CRL and gestational age measured by late pregnancy ultrasound biometric parameters.24 Mean differences (bias) with 95% CIs and 95% LOA values were calculated for each comparison. For ease of comparison, an approximation of the degree of agreement was calculated as the midpoint between the unsigned LOA values. As an example, if the 95% LOA was −20 to +22 days, the approximation of agreement would be within ±21 days of the gestational age, as determined by the gold-standard first trimester CRL measurement. For individual biometric parameters or combinations of parameters with bias (ie, if the 95% CI of the mean difference does not include 0), the gestational age window agreement limits would be skewed in the direction of the bias.
+For infants with available birthweights, we stratified the results by infant size to compare the accuracy of late pregnancy biometry measures among infants with appropriate-for-gestational-age birthweights and small-for-gestational-age birthweights.
+Statistical modelling was used to develop novel equations to predict gestational age with late pregnancy biometric parameters as covariates. Generalised linear regression was done by use of the Stata glm command, accounting for clustering of multiple visits for a participant. Gold-standard gestational age determination by CRL measurement was the dependent variable. Covariates tested in the models included all late pregnancy biometric parameters measured (biparietal diameter, head circumference, femur length, abdominal circumference, and TCD). Natural logarithms were used to transform continuous measures given non-normal distributions. Models with individual and combinations of biometric parameters were tested. Given the performance of TCD as an individual parameter, models including TCD as the main predictor were examined, adding additional biometric parameters, assessing for significance (ie, if the p value was <0·05) and improvement in the adjusted R2, and determining the best-fit model according to the Akaike Information Criterion.
+Potential models were cross-validated to compare the predictive accuracy of the different models and select biometric parameters to be included in the final model. Two methods were used to cross-validate the models. In the first method, the study dataset was divided into five random subsamples, one subsample was withheld, and statistical models were generated with the remaining 80% of the data. The model was then used to predict gestational age in the withheld 20% subsample, and a standardised error term was calculated on the basis of the predicted gestational age, calculated as: (observed gestational age – predicted gestational age)2/(predicted gestational age). This process was repeated with each successive withheld subsample, and a summary measure of the prediction error was generated for the entire dataset. The model with the lowest prediction error was selected as the final model. In the second cross-validation method, the data from one study site were withheld, and statistical models were generated with data from the remaining two sites. The model was then fit and used to predict gestational age in the first site that had the data withheld. This process was repeated twice and the standardised error was calculated.
+ Role of the funding source
+The funder of the study had no role in the study design, data collection, data analysis, data interpretation, or writing of the report.
+Results
+Between Feb 7, 2015, and Jan 9, 2017, 1947 pregnant women in three of the five AMANHI study sites (Bangladesh, Pakistan, and Tanzania) with documented CRL assessments between 8+0 and 14+0 weeks' gestation were enrolled in this late pregnancy ultrasound study. Of these women, 1619 completed late pregnancy scans. Data from nine infants were excluded from the final analysis because of implausible dates that could not be reconciled (eg, date of birth before date of ultrasound, or year of ultrasound or birth recorded incorrectly). We determined a priori that a difference of greater than 60 days between the gold-standard CRL measurement of gestational age and the gestational age predicted by late pregnancy biometry measurements was considered to be implausibly associated with the performance of the ultrasound. Three such extreme outliers were excluded at 24+0–29+6 weeks' gestation, and an additional three were excluded at 30+0–36+6 weeks' gestation. The final analysis included 1611 unique mothers, of whom 1387 underwent an ultrasound scan between 24+0 and 29+6 weeks' gestation (546 in Bangladesh, 456 in Pakistan, and 385 in Tanzania), and 1403 underwent an ultrasound scan between 30+0 and 36+6 weeks' gestation (531 in Bangladesh, 449 in Pakistan, and 423 in Tanzania; figure 1).
+Figure thumbnail gr1
+Figure 1Participant flowchart by ultrasound visit
+Show full caption
+View Large ImageFigure ViewerDownload Hi-res imageDownload (PPT)
+More than 97% of all attempts at biometric measurements were successful. Of the 1387 ultrasound scans done at 24+0–29+6 weeks' gestation, values for the biparietal diameter were missing in two (0·1%) scans, for head circumference in three (0·2%) scans, for femur length in two (0·1%) scans, for abdominal circumference in three (0·2%) scans, and for TCD in three (0·2%) scans. Of the 1403 ultrasound scans done at 30+0–36+6 weeks' gestation, missing values for the different parameters were similar to the ultrasound scan at 24+0–29+6 weeks' gestation, with two (0·1%) values missing for biparietal diameter, two (0·1%) for head circumference, none for femur length, and eight (0·6%) for abdominal circumference. Even at 30+0–36+6 weeks' gestation, TCD measurements were successfully obtained from 1365 (97%) of 1403 ultrasound scans. Summary measures from the individual biometric parameters (mean and SD) for the cohort and by site are included in the appendix (p 1). Using the reference nomogram for CRL by Hadlock and colleagues17 as an alternative to the INTERGROWTH-21st project19 nomogram, no significant differences in the distribution of gestational ages estimated from either third trimester ultrasound scan were observed (data not shown).
+From the ultrasound scans done at 24+0–29+6 weeks' gestation, the performance of individual biometric parameters showed fairly similar agreement with gold-standard CRL measurements (approximations ranging from ±12·8 to ±16·2 days of the standard CRL measurements; table 1). There was little bias, as evidenced by a mean difference close to zero for all parameters. A representative Bland-Altman plot for TCD versus CRL is presented in figure 2.
+Table 1Degree of agreement between late pregnancy ultrasound and gold-standard first trimester crown-rump length measurement of gestational age
+Ultrasound scan at 24+0–29+ weeks' gestation (n=1387)	Ultrasound scan at 30+0–36+ weeks' gestation (n=1403)
+Mean difference in days (95% CI)	95% limits of agreement in days	Approximation in days*	Mean difference in days (95% CI)	95% limits of agreement in days	Approximation in days*
+Individual parameters
+TCD18	1·0 (0·6 to 1·3)	−12·0 to 14·0	±13·0	1·5 (1·0 to 2·0)	−15·9 to 18·9	±17·4
+BPD17	−2·6 (−2·9 to −2·2)	−17·0 to 11·9	±14·5	−8·0 (−8·6 to −7·4)	−30·3 to 14·3	±22·3
+HC19	1·5 (1·2 to 1·9)	−13·0 to 16·1	±14·6	0·7 (−0·0 to 1·3)	−24·5 to 25·9	±25·2
+FL17	−2·1 (−2·4 to −1·7)	−14·9 to 10·7	±12·8	−7·7 (−8·2 to −7·2)	−27·5 to 12·1	±19·8
+AC17	−0·2 (−0·7 to 0·2)	−16·4 to 16·0	±16·2	−4·8 (−5·4 to −4·1)	−29·0 to 19·4	±24·2
+Combination formulas
+Hadlock17	−3·2 (−3·5 to −2·9)	−14·3 to 7·9	±11·1	−7·7 (−8·1 to −7·2)	−25·6 to 10·3	±18·0
+INTERGROWTH-21st project19	1·5 (1·2 to 1·8)	−10·4 to 13·4	±11·9	0·8 (0·3 to 1·3)	−19·0 to 20·6	±19·8
+AMANHI parsimonious formula	1·2 (0·9 to 1·4)	−9·3 to 11·6	±10·5	−1·4 (−1·8 to −1·0)	−16·5 to 13·7	±15·1
+The Hadlock formula17 includes BPD, AC, and FL measurements; INTERGROWTH-21st project formula19 includes HC and FL measurements; and the AMANHI parsimonious method includes TCD and FL measurements. TCD=transcerebellar diameter. BPD=biparietal diameter. HC=head circumference. FL=femur length. AC=abdominal circumference. AMANHI=Alliance for Maternal and Newborn Health Improvement.
+* Approximation refers to the midpoint between the unsigned limits of agreement, and values represent the number of days plus or minus the gold-standard first trimester crown-rump length measurement of gestational age; for biometric parameters or combinations with bias (ie, if the 95% CI of the mean difference does not include 0), the true value of gestational age compared with the estimated value from third trimester biometry will be skewed in the direction of the bias (mean difference).
+Open table in a new tab
+Figure thumbnail gr2
+Figure 2Bland-Altman plots comparing agreement of gestational age (days) determied by TCD measurements with first trimester CRL measurements at 24+0–29+6 weeks' gestation (A) and 30+0–36+6 weeks' gestation (B), by study site
+Show full caption
+View Large ImageFigure ViewerDownload Hi-res imageDownload (PPT)
+From the ultrasound scans done at 30+0–36+6 weeks' gestation, TCD had narrower 95% LOA than the other individual biometric parameters (table 1). The agreement between TCD and gold-standard CRL measurements was approximated to be within ±17·4 days of the CRL measurement with little bias (mean difference 1·5 days, 95% CI 1·0–2·0). Compared with TCD, the remaining individual parameters showed less agreement with CRL measurements (approximations ranged between ±19·8–25·2 days). A strong negative bias for biparietal diameter (–8·0 days, 95% CI −8·6 to −7·4), femur length (–7·7 days, −8·2 to −7·2), and abdominal circumference (–4·8 days, −5·4 to −4·1) was observed, suggesting a systematic underestimation of gestational age by approximately 1 week.
+From the ultrasound scan at 24+0–29+6 weeks' gestation, the Hadlock17 and INTERGROWTH-21st project19 combination formulas outperformed individual parameters by a few days (approximations ranged between ±11·1–11·9 days) and maintained little bias (table 1). From the ultrasound scan at 30+0–36+6 weeks' gestation, TCD alone (approximation ±17·4 days) showed a similar degree of agreement to CRL measurements as the Hadlock17 formula (approximation ±18·0 days), and slightly narrower agreement with CRL measurements than the INTERGROWTH-21st project19 formula (approximation 19·8 days). Notably, the Hadlock17 formula had a strong negative bias (mean difference −7·7 days, 95% CI −8·1 to −7·2). Results did not vary substantially by site (data not shown) and have been presented together.
+Stratification of results by infant size was done in women who were less than 42 weeks pregnant when they gave birth with birthweights available, and included 1186 (86%) of 1387 women who had an ultrasound scan at 24+0–29+6 weeks' gestation, 1236 (88%) of 1403 women who had an ultrasound scan at 30+0–36+6 weeks' gestation, and 1379 (86%) of all 1611 unique infants for whom the birthweights were known. 398 (29%) of the 1379 unique infants were classified as small-for-gestational-age. The prevalence of infants who were small-for-gestational-age varied by site and was higher in Asian sites (234 [44%] of 526 infants in Bangladesh and 122 [28%] of 430 infants in Pakistan) than in the African sites (42 [10%] of 423 infants in Tanzania).
+TCD outperformed the other biometric parameters in predicting gestational age and showed less negative bias (ie, less underestimation), with 95% LOA values that were similar at the 24+0–29+6-week and 30+0–36+6-week scans in infants who had appropriate-for-gestational age birthweights and small-for-gestational-age birthweights (table 2). Hadlock17 and INTERGROWTH-21st project19 combination formulas had slightly narrower 95% LOA values than individual parameters at the 24+0–29+6-week scan in infants who were small-for-gestational-age (table 2), although the Hadlock17 formula had substantial negative bias (–5·7 days, 95% CI −6·2 to −5·2). At the 30+0–36+6-week scan, TCD had a similar 95% LOA to the combination formulas for infants who were small-for-gestational-age (approximation 15·8 days) but with less bias (mean difference 0·3 days) than both the Hadlock17 (–13·2 days) and INTERGROWTH-21st project19 formulas (–4·2 days; table 2).
+Table 2Performance of late pregnancy ultrasound in estimating the gestational age of infants with small-for-gestational-age or appropriate-for-gestational-age birthweights
+Birthweight appropriate for gestational age	Birthweight small for gestational age
+Mean difference in days (95% CI)	95% limits of agreement in days	Approximation in days*	Mean difference in days (95% CI)	95% limits of agreement in days	Approximation in days*
+24+0–29+6 weeks' gestation						
+TCD18	1·4 (1·0 to 1·9)	−12·1 to 15·0	±13·6	0·3 (−0·4 to 0·9)	−11·5 to 12·1	±11·8
+BPD17	−1·6 (−2·1 to −1·1)	−16·0 to 12·8	±14·4	−4·7 (−5·4 to −4·0)	−17·9 to 8·5	±13·2
+HC19	3·1 (2·6 to 3·6)	−11·4 to 17·5	±14·5	−1·9 (−2·5 to −1·2)	−13·5 to 9·8	±11·7
+FL17	−1·1 (−1·5 to −0·6)	−13·9 to 11·8	±12·9	−3·8 (−4·4 to −3·1)	−15·1 to 7·6	±11·4
+AC17	1·6 (1·1 to 2·2)	−14·3 to 17·6	±16·0	−4·1 (−4·8 to −3·3)	−17·7 to 9·6	±13·7
+Hadlock17	−1·9 (−2·3 to −1·5)	−12·7 to 9·0	±10·9	−5·7 (−6·2 to −5·2)	−15·1 to 3·7	±9·4
+INTERGROWTH-21st project19	2·9 (2·5 to 3·3)	−8·9 to 14·6	±11·8	−1·1 (−1·6 to −0·6)	−10·7 to 8·4	±9·6
+AMANHI parsimonious formula	1·9 (1·5 to 2·3)	−8·8 to 12·5	±10·7	0·1 (−0·4 to 0·6)	−9·1 to 9·2	±9·2
+30+0–36+6 weeks' gestation
+TCD18	1·9 (1·3 to 2·6)	−16·2 to 20·1	±18·2	0·3 (−0·5 to 1·2)	−15·4 to 16·1	±15·8
+BPD17	−5·7 (−6·4 to −5·0)	−27·1 to 15·7	±21·4	−13·2 (−14·2 to −12·1)	−33·7 to 7·4	±20·6
+HC19	3·6 (2·7 to 4·4)	−21·1 to 28·2	±24·7	−5·8 (−6·9 to −4·7)	−26·7 to 15·2	±21·0
+FL17	−5·9 (−6·5 to −5·2)	−25·0 to 13·3	±19·2	−11·3 (−12·2 to −10·4)	−28·2 to 5·5	±16·9
+AC17	−1·1 (−1·9 to −0·4)	−22·9 to 20·6	±21·8	−12·9 (−14·0 to −11·8)	−33·3 to 7·5	±20·4
+Hadlock17	−5·1 (−5·6 to −4·5)	−21·1 to 11·0	±16·1	−13·2 (−14·0 to −12·4)	−28·5 to 2·1	±15·3
+INTERGROWTH-21st project19	3·2 (2·6 to 3·9)	−15·5 to 22·0	±18·8	−4·2 (−5·1 to −3·4)	−20·8 to 12·3	±16·6
+AMANHI parsimonious formula	−0·3 (−0·9 to 0·2)	−15·6 to 14·9	±15·3	−3·7 (−4·4 to −3·0)	−16·7 to 9·3	±13·0
+The Hadlock formula17 includes BPD, AC, and FL measurements; INTERGROWTH-21st project formula19 includes HC and FL measurements; and the AMANHI parsimonious method includes TCD and FL measurements. TCD=transcerebellar diameter. BPD=biparietal diameter. HC=head circumference. FL=femur length. AC=abdominal circumference. AMANHI=Alliance for Maternal and Newborn Health Improvement.
+* Approximation refers to the midpoint between the unsigned limits of agreement and values represent the number of days plus or minus the gold-standard first trimester crown-rump length measurement of gestational age; for biometric parameters or combinations with bias (ie, if the 95% CI of the mean difference does not include 0), the true value of gestational age compared with the estimated value from third trimester biometry will be skewed in the direction of the bias (mean difference).
+Open table in a new tab
+The four statistical models generated from the AMANHI late pregnancy dating study are shown in table 3. Model 1 was the most accurate in predicting gestational age and included four biometric parameters. Model 2 included only TCD and femur length and showed the least prediction error among the three more parsimonious models (combining only two parameters) after both cross-validation approaches were applied (appendix p 3).
+Table 3Performance of newly derived Alliance for Maternal and Newborn Health Improvement combination formulas for determining gestational age after 24 weeks' gestation
+24+0–29+6 weeks' gestation	30+0–36+6 weeks' gestation
+Mean difference in days (95% CI)	95% limits of agreement in days	Approximation in days*	Mean difference in days (95% CI)	95% limits of agreement in days	Approximation in days*
+Model 1: lnTCD, lnBPD, lnFL, and lnAC†	1·1 (0·9 to 1·4)	−8·9 to 11·2	±10·1	−1·4 (−1·7 to −1·0)	−16·0 to 13·3	±14·7
+Model 2: lnTCD and lnFL‡	1·2 (0·9 to 1·4)	−9·3 to 11·6	±10·5	−1·4 (−1·8 to −1·0)	−16·5 to 13·7	±15·1
+Model 3: lnTCD and lnBPD	1·4 (1·1 to 1·6)	−9·5 to 12·2	±10·9	−1·6 (−2·0 to −1·2)	−17·8 to 14·6	±16·2
+Model 4: lnTCD and lnAC	1·3 (1·0 to 1·6)	−9·5 to 12·1	±10·8	−1·6 (−2·0 to −1·1)	−17·8 to 14·6	±16·2
+TCD=transcerebellar diameter. BPD=biparietal diameter. FL=femur length. AC=abdominal circumference. HC=head circumference.
+* Approximation refers to the midpoint between the unsigned limits of agreement and values represent the number of days plus or minus the gold-standard first trimester crown-rump length measurement of gestational age; for biometric parameters or combinations with bias (ie, if the 95% CI of the mean difference does not include 0), the true value of gestational age compared with the estimated value from third trimester biometry will be skewed in the direction of the bias (mean difference).
+† Model 1 is the complete Alliance for Maternal and Newborn Health Improvement model.
+‡ Models 2–4 evaluate combinations of fewer biometric parameters, with Model 2 chosen as the Alliance for Maternal and Newborn Health Improvement parsimonious model.
+Open table in a new tab
+The final model was fit by including TCD and femur length in a regression with the entire dataset (model 2, table 3; formula in appendix p 3). The prediction error (appendix p 3) is on the final model involving the entire cohort data. Formulas for all candidate models and their out-of-model prediction errors are shown in the appendix (p 3).
+From the ultrasound scan at 24+0–29+6 weeks' gestation, our novel AMANHI combination formula, combining TCD and femur length measurements, showed little improvement in the accuracy of estimating gestational age when infants were stratified by birthweight (appropriate-for-gestational-age or small-for-gestational-age) compared with previous combination formulas,17,  19 improving estimations by only 1 day (table 2). However, from the ultrasound scan at 30+0–36+6 weeks' gestation, the AMANHI combination formula could more accurately predict gestational age for appropriate-for-gestational-age infants and small-for-gestational-age infants compared with the INTERGROWTH-21st project19 combination formula, narrowing the 95% LOA to approximately ±2 weeks and with minimal bias (table 2).
+Discussion
+We have identified several key findings regarding the performance of ultrasound biometry in late pregnancy in a large cohort of pregnant women in three LMIC settings. First, it was reassuring to verify that the accuracy of late pregnancy ultrasound for estimating gestational age in our study was similar to the reported results from higher-income settings, where sonographer training is lengthier and includes more practical training compared with sonographer training in LMIC settings. Biometric parameters at 24+0–29+6 weeks' gestation and 30+0–36+6 weeks' gestation, alone and in combination, were accurate to within approximately ±3·0–3·5 weeks of the gold-standard CRL measurement of gestational age. These results are consistent with previous reports of the performance of late pregnancy biometric parameters.22,  23,  24
+In our study, the accuracy of gestational age dating with individual biometric parameters before 30 weeks was reasonably good (approximation ±12·8 days to ±16·2 days of the standard CRL measurements), improving even further (approximation ±11·1–11·9 days) when individual biometric parameters were combined according to previously published formulas. Later scans (>30 weeks) had wider individual 95% LOAs (approximation ±17·4–25·2 days). As hypothesised, the TCD, as a single biometric parameter, had the narrowest 95% LOA (approximation ±17·4 days), and even outperformed the combination formulas slightly (approximation ±18·0–19·8 days). Importantly, TCD also performed quite well among infants who were ultimately born small-for-gestational-age with an accuracy of approximately ±11·8 days of the CRL measurement of gestational age at 24+0–29+6 weeks and approximately ±15·8 days of the CRL measurement at 30+0–36+6 weeks, with little bias (mean difference of 0·3 days at both gestational age windows). In summary, nomograms established for measuring cerebellar size in high-resource settings appear to perform well in this LMIC population.
+Given the initial results showing successful performance of TCD in estimating gestational age, we combined TCD with standard biometric parameters and used statistical modelling to investigate the performance of different combination formulas in the LMIC study sites, where the prevalence of infants born small-for-gestational-age is high. Our first model, combining TCD with biparietal diameter, femur length, and abdominal circumference, narrowed the 95% LOA across the two third trimester gestational age windows to less than 2 weeks. A second parsimonious model, combining only TCD and femur length, performed nearly as well as the first model, with the added benefit of simplicity in the number of parameters included. Both the femur and the cerebellum are structures that are fairly easy to identify. In addition, the measurements of these parameters are linear, and therefore require less skill in calliper placement than circumference measurements, as evidenced by the observation that these measurements were obtained successfully in 97% of ultrasound scans in our study. When compared with other published combination formulas, our AMANHI parsimonious model formula had the narrowest 95% LOA, the least bias, and performed similarly among infants born appropriate for gestational age and small for gestational age in both gestational age windows. As the AMANHI formulas were derived from our study population, it is not surprising that they performed well, even after attempting to separate model development and validation through cross-validation exercises. Our gestational age formulas should therefore be viewed as hypothesis-generating, and they should be validated in other LMIC populations before they are used extensively.
+It is important to emphasise that our study included an unselected and population-based cohort from three LMICs at the time of enrolment. The cohort therefore reflects the range of morbidities associated with pregnancy, maternal nutritional status, and fetal sizes that would be encountered by a health-care practitioner in similar settings. Our cohort contrasts those used in previous studies,19,  20,  21 such as the INTERGROWTH-21st project19 cohort, that were designed to measure optimal fetal growth and enrolled only healthy low-risk women who were less likely to carry a growth-restricted fetus. These differences might help to explain why our AMANHI parsimonious model outperformed both the Hadlock17 and INTERGROWTH-21st project19 formulas among infants who were born small for gestational age. Even at 30+0–36+6 weeks' gestation, the 95% LOA of our AMANHI parsimonious formula was still within ±15 days of the CRL measurement of gestational age, and it performed similarly among infants born with small-for-gestational-age (approximation ±13·0 days) or appropriate-for-gestational-age (approximation ±15·3 days) birthweights. An estimation of gestational age to within approximately ±2 weeks of the standard CRL measurement is a remarkable achievement for LMIC settings, as many women do not have an ultrasonography in the first half of pregnancy. If intrauterine growth restriction is suspected, measurement of cerebellar size in the third trimester could help to confirm that this is the case.
+Our study has several strengths, including its large sample size and the determination of gestational age by use of gold-standard first trimester CRL measurements that were verified by a multilayered quality control process. Nonetheless, there are some limitations of our study. We did not evaluate the feasibility of obtaining cerebellum measurements after 36 weeks' gestation. With advancing gestation, shadowing from the calcified skull might preclude the accurate measurement of the TCD margins, limiting its use as the pregnancy nears full term. The results shown in figure 2 suggest that accurate TCD measurements might be more difficult to obtain as the pregnancy advances, as several individual data points fell below the lower 95% LOA rather than the upper LOA at the 30+0–36+6-week gestational age window. This underestimation of gestational age by TCD in this gestational age window could reflect difficulties in measuring the full size of the cerebellar hemispheres.
+In summary, if validated in other LMIC populations, our novel parsimonious model for estimating gestational age in late pregnancy could be useful for research, public health surveillance, and clinical care. Our study findings might be clinically relevant for health-care providers tasked with determining whether a fetus is small rather than preterm, and thus might limit iatrogenic harm from unnecessary preterm delivery.
+Two important messages can be concluded from our work. First, cerebellar measurements using previously established nomograms from high-resource settings are a useful adjunct to late pregnancy biometry measurements in LMICs, where the burden of infants born small-for-gestational-age is high. Secondly, if validated in other LMIC populations, a parsimonious gestational age formula requiring measurement of only two biometric parameters might narrow accuracy of late pregnancy ultrasound to within approximately 2 weeks.
+Contributors
+This manuscript is the product of the WHO Alliance for Maternal and Newborn Health Improvement Late Pregnancy Dating Study Group. BJW, RB, ACL, AHB, FJ, and SS acquired funding, designed the study, developed the protocols, and were involved in implementing the study. BJW and MN led the ultrasound training, and standardisation, and provided ongoing ultrasound quality control. FJ, IM, ACL, AHB, SD, SS, UD, and SA supervised patient enrolment, provided oversight of daily study activities, and were involved in leading the collection and management of data. The daily collection and management of data was done by SB, AH, SJ, FK, MK, UM, SMM, and MR. RA, NI, and NN were responsible for daily ultrasound activities and local quality control. Data was initially analysed and interpreted by BJW, ACL, IN, SD, LES, MI, and RW, with additional data interpretation done by RB, AHB, FJ, and SS. BJW, ACL, LES, and RB drafted the initial manuscript, which was further edited, reviewed, revised and approved by all authors. BJW and RB had full access to all of the data and the final responsibility to submit the manuscript for publication. Additional study members who had access to the raw data included ACL, IN, SD, LES, MI, and RW.
+Alliance for Maternal and Newborn Health Improvement Study Group members
+Tanzania team collaborators: Tanzania Saikat Deb, Mohammed Said Mohammed, Said Mohammed Ali, Mohammed Hamad Juma, Massoud Juma Hassan, (Public Health Laboratory-Ivo de Carneri, Pemba); India Saikat Deb, Usha Dhingra, Arup Dutta, Pratibha Dixit, Sunil Sazawal (Centre for Public Health Kinetics, New Delhi); Pakistan team collaborators: Pakistan Imran Nisar, Muhammad Ilyas, Usma Mehmood, Farzana Kausar, Shamim Jaweed, Muhammad Karim, Atiya Hussain, Naila Nadeem, Fyezah Jehan (Aga Khan University, Karachi); Bangladesh team collaborators: Bangladesh Sayedur Rahman, Nasreen Islam, Ruksana Azad, Syed Mamun Ibne Moin, Salahuddin Ahmed (Johns Hopkins University-Bangladesh, Dhaka), Mahmoodur Rahman, Abdul Quiayum (Maternal and Child Health Division, International Center for Diarrheal Disease Research, Dhaka); USA Rasheda Khanam, Abdullah H Baqui (Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD); Coordinating team: Switzerland Sachiyo Yoshida, Alexander Manu, Rajiv Bahl (WHO, Geneva); USA Anne CC Lee (Brigham and Women's Hospital, Harvard Medical School, Boston, MA), Lauren E Schaeffer, Rachel Whelan (Brigham and Women's Hospital, Boston, MA), Mariam Naqvi (Ceders Sinai Medical Center, Los Angeles, CA), Blair J Wylie (Department of Obstetrics and Gynecology, Beth Israel Deaconess Medical Center, Boston, MA; Harvard Medical School, Boston, MA).
+Declaration of interests
+UD, SS, FJ, AQ, RA, SR, MR, SMM, NI, AM, MN, LES, ACL, and BW report grants from the Bill & Melinda Gates Foundation during the conduct of the study. All other authors declare no competing interests.
+Acknowledgments
+This study was funded by the Bill & Melinda Gates Foundation (OPP1119723). The funder had no role in study design, data collection, data analysis, data interpretation, or writing of the report. BJW received funding from the National Institutes of Health (NIH K23 ES021471). FΩd IN also received funding from Fogarty International Centre, and NIH (D43TW007585). ACL received funding from The National Institute of Child Health and Human Development (K23 HD091390-01). The results of the study were presented at the Annual Meeting of the Society for Maternal-Fetal Medicine (February, 2018) in Dallas, TX, USA. We are particularly grateful to the women who participated in the study and to all research staff across the three study sites who made the project possible.
+
+InvenSense Inc.
+1197 Borregas Ave, Sunnyvale, CA 94089 U.S.A.
+Tel: +1 (408) 988-7339 Fax: +1 (408) 988-8104
+Website: www.invensense.com
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+1 of 52
+MPU-6000 and MPU-6050
+Product Specification
+Revision 3.4
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+2 of 52
+CONTENTS
+1 REVISION HISTORY ................................................................................................................................... 5
+2 PURPOSE AND SCOPE ............................................................................................................................. 6
+3 PRODUCT OVERVIEW ............................................................................................................................... 7
+3.1 MPU-60X0 O VERVIEW ........................................................................................................................ 7
+4 APPLICATIONS ........................................................................................................................................... 9
+5 FEATURES ................................................................................................................................................ 10
+5.1 G YROSCOPE F EATURES ..................................................................................................................... 10
+5.2 A CCELEROMETER F EATURES ............................................................................................................. 10
+5.3 A DDITIONAL F EATURES ...................................................................................................................... 10
+5.4 M OTION P ROCESSING ......................................................................................................................... 11
+5.5 C LOCKING ......................................................................................................................................... 11
+6 ELECTRICAL CHARACTERISTICS ......................................................................................................... 12
+6.1 G YROSCOPE S PECIFICATIONS ............................................................................................................ 12
+6.2 A CCELEROMETER S PECIFICATIONS ..................................................................................................... 13
+6.3 E LECTRICAL AND O THER C OMMON S PECIFICATIONS ............................................................................ 14
+6.4 E LECTRICAL S PECIFICATIONS , C ONTINUED ......................................................................................... 15
+6.5 E LECTRICAL S PECIFICATIONS , C ONTINUED ......................................................................................... 16
+6.6 E LECTRICAL S PECIFICATIONS , C ONTINUED ......................................................................................... 17
+6.7 I 2 C T IMING C HARACTERIZATION .......................................................................................................... 18
+6.8 SPI T IMING C HARACTERIZATION (MPU-6000 ONLY ) ........................................................................... 19
+6.9 A BSOLUTE M AXIMUM R ATINGS ........................................................................................................... 20
+7 APPLICATIONS INFORMATION .............................................................................................................. 21
+7.1 P IN O UT AND S IGNAL D ESCRIPTION .................................................................................................... 21
+7.2 T YPICAL O PERATING C IRCUIT ............................................................................................................. 22
+7.3 B ILL OF M ATERIALS FOR E XTERNAL C OMPONENTS .............................................................................. 22
+7.4 R ECOMMENDED P OWER - ON P ROCEDURE ........................................................................................... 23
+7.5 B LOCK D IAGRAM ............................................................................................................................... 24
+7.6 O VERVIEW ........................................................................................................................................ 24
+7.7 T HREE -A XIS MEMS G YROSCOPE WITH 16- BIT ADC S AND S IGNAL C ONDITIONING ................................ 25
+7.8 T HREE -A XIS MEMS A CCELEROMETER WITH 16- BIT ADC S AND S IGNAL C ONDITIONING ........................ 25
+7.9 D IGITAL M OTION P ROCESSOR ............................................................................................................ 25
+7.10 P RIMARY I 2 C AND SPI S ERIAL C OMMUNICATIONS I NTERFACES ............................................................ 25
+7.11 A UXILIARY I 2 C S ERIAL I NTERFACE ...................................................................................................... 26
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+3 of 52
+7.12 S ELF -T EST ........................................................................................................................................ 27
+7.13 MPU-60X0 S OLUTION FOR 9- AXIS S ENSOR F USION U SING I 2 C I NTERFACE .......................................... 28
+7.14 MPU-6000 U SING SPI I NTERFACE ..................................................................................................... 29
+7.15 I NTERNAL C LOCK G ENERATION .......................................................................................................... 30
+7.16 S ENSOR D ATA R EGISTERS ................................................................................................................. 30
+7.17 FIFO ................................................................................................................................................ 30
+7.18 I NTERRUPTS ...................................................................................................................................... 30
+7.19 D IGITAL -O UTPUT T EMPERATURE S ENSOR .......................................................................................... 31
+7.20 B IAS AND LDO .................................................................................................................................. 31
+7.21 C HARGE P UMP .................................................................................................................................. 31
+8 PROGRAMMABLE INTERRUPTS ............................................................................................................ 32
+9 DIGITAL INTERFACE ............................................................................................................................... 33
+9.1 I 2 C AND SPI (MPU-6000 ONLY ) S ERIAL I NTERFACES .......................................................................... 33
+9.2 I 2 C I NTERFACE .................................................................................................................................. 33
+9.3 I 2 C C OMMUNICATIONS P ROTOCOL ...................................................................................................... 33
+9.4 I 2 C T ERMS ........................................................................................................................................ 36
+9.5 SPI I NTERFACE (MPU-6000 ONLY ) .................................................................................................... 37
+10 SERIAL INTERFACE CONSIDERATIONS (MPU-6050) .......................................................................... 38
+10.1 MPU-6050 S UPPORTED I NTERFACES ................................................................................................. 38
+10.2 L OGIC L EVELS ................................................................................................................................... 38
+10.3 L OGIC L EVELS D IAGRAM FOR AUX_VDDIO = 0 .................................................................................. 39
+11 ASSEMBLY ............................................................................................................................................... 40
+11.1 O RIENTATION OF A XES ...................................................................................................................... 40
+11.2 P ACKAGE D IMENSIONS ...................................................................................................................... 41
+11.3 PCB D ESIGN G UIDELINES .................................................................................................................. 42
+11.4 A SSEMBLY P RECAUTIONS .................................................................................................................. 43
+11.5 S TORAGE S PECIFICATIONS ................................................................................................................. 46
+11.6 P ACKAGE M ARKING S PECIFICATION .................................................................................................... 46
+11.7 T APE & R EEL S PECIFICATION ............................................................................................................. 47
+11.8 L ABEL ............................................................................................................................................... 48
+11.9 P ACKAGING ....................................................................................................................................... 49
+11.10 R EPRESENTATIVE S HIPPING C ARTON L ABEL ................................................................................... 50
+12 RELIABILITY ............................................................................................................................................. 51
+12.1 Q UALIFICATION T EST P OLICY ............................................................................................................. 51
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+4 of 52
+12.2 Q UALIFICATION T EST P LAN ................................................................................................................ 51
+13 ENVIRONMENTAL COMPLIANCE ........................................................................................................... 52
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+5 of 52
+1 Revision History
+Revision
+Date
+Revision Description
+11/24/2010 1.0 Initial Release
+05/19/2011 2.0
+For Rev C parts. Clarified wording in sections (3.2, 5.1, 5.2, 6.1-6.4, 6.6, 6.9, 7,
+7.1-7.6, 7.11, 7.12, 7.14, 8, 8.2-8.4, 10.3, 10.4, 11, 12.2)
+07/28/2011 2.1 Edited supply current numbers for different modes (section 6.4)
+08/05/2011 2.2 Unit of measure for accelerometer sensitivity changed from LSB/mg to LSB/g
+10/12/2011 2.3
+Updated accelerometer self test specifications in Table 6.2. Updated package
+dimensions (section 11.2). Updated PCB design guidelines (section 11.3)
+10/18/2011 3.0
+For Rev D parts. Updated accelerometer specifications in Table 6.2. Updated
+accelerometer specification note (sections 8.2, 8.3, & 8.4). Updated qualification
+test plan (section 12.2).
+10/24/2011 3.1
+Edits for clarity
+Changed operating voltage range to 2.375V-3.46V
+Added accelerometer Intelligence Function increment value of 1mg/LSB
+(Section 6.2)
+Updated absolute maximum rating for acceleration (any axis, unpowered) from
+0.3ms to 0.2ms (Section 6.9)
+Modified absolute maximum rating for Latch-up to Level A and ±100mA (Section
+6.9, 12.2)
+11/16/2011 3.2
+Updated self-test response specifications for Revision D parts dated with
+date code 1147 (YYWW) or later.
+Edits for clarity
+Added Gyro self-test (sections 5.1, 6.1, 7.6, 7.12)
+Added Min/Max limits to Accel self-test response (section 6.2)
+Updated Accelerometer low power mode operating currents (Section 6.3)
+Added gyro self test to block diagram (section 7.5)
+Updated packaging labels and descriptions (sections 11.8 & 11.9)
+5/16/2012 3.3
+Updated Gyro and Accelerometer self test information (sections 6.1, 6.2, 7.12)
+Updated latch-up information (Section 6.9)
+Updated programmable interrupts information (Section 8)
+Changed shipment information from maximum of 3 reels (15K units) per shipper
+box to 5 reels (25K units) per shipper box (Section 11.7)
+Updated packing shipping and label information (Sections 11.8, 11.9)
+Updated reliability references (Section 12.2)
+8/19/2013 3.4 Updates section 4
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+6 of 52
+2 Purpose and Scope
+This product specification provides advanced information regarding the electrical specification and design
+related information for the MPU-6000™ and MPU-6050™ MotionTracking™ devices, collectively called the
+MPU-60X0™ or MPU™.
+Electrical characteristics are based upon design analysis and simulation results only. Specifications are
+subject to change without notice. Final specifications will be updated based upon characterization of
+production silicon. For references to register map and descriptions of individual registers, please refer to the
+MPU-6000/MPU-6050 Register Map and Register Descriptions document.
+The self-test response specifications provided in this document pertain to Revision D parts with date
+codes of 1147 (YYWW) or later. Please see Section 11.6 for package marking description details.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+7 of 52
+3 Product Overview
+3.1 MPU-60X0 Overview
+MotionInterface™ is becoming a “must-have” function being adopted by smartphone and tablet
+manufacturers due to the enormous value it adds to the end user experience. In smartphones, it finds use in
+applications such as gesture commands for applications and phone control, enhanced gaming, augmented
+reality, panoramic photo capture and viewing, and pedestrian and vehicle navigation. With its ability to
+precisely and accurately track user motions, MotionTracking technology can convert handsets and tablets
+into powerful 3D intelligent devices that can be used in applications ranging from health and fitness
+monitoring to location-based services. Key requirements for MotionInterface enabled devices are small
+package size, low power consumption, high accuracy and repeatability, high shock tolerance, and application
+specific performance programmability – all at a low consumer price point.
+The MPU-60X0 is the world’s first integrated 6-axis MotionTracking device that combines a 3-axis
+gyroscope, 3-axis accelerometer, and a Digital Motion Processor™ (DMP) all in a small 4x4x0.9mm
+package. With its dedicated I 2 C sensor bus, it directly accepts inputs from an external 3-axis compass to
+provide a complete 9-axis MotionFusion™ output. The MPU-60X0 MotionTracking device, with its 6-axis
+integration, on-board MotionFusion™, and run-time calibration firmware, enables manufacturers to eliminate
+the costly and complex selection, qualification, and system level integration of discrete devices, guaranteeing
+optimal motion performance for consumers. The MPU-60X0 is also designed to interface with multiple non-
+inertial digital sensors, such as pressure sensors, on its auxiliary I 2 C port. The MPU-60X0 is footprint
+compatible with the MPU-30X0 family.
+The MPU-60X0 features three 16-bit analog-to-digital converters (ADCs) for digitizing the gyroscope outputs
+and three 16-bit ADCs for digitizing the accelerometer outputs. For precision tracking of both fast and slow
+motions, the parts feature a user-programmable gyroscope full-scale range of ±250, ±500, ±1000, and
+±2000°/sec (dps) and a user-programmable accelerometer full-scale range of ±2g, ±4g, ±8g, and ±16g.
+An on-chip 1024 Byte FIFO buffer helps lower system power consumption by allowing the system processor
+to read the sensor data in bursts and then enter a low-power mode as the MPU collects more data. With all
+the necessary on-chip processing and sensor components required to support many motion-based use
+cases, the MPU-60X0 uniquely enables low-power MotionInterface applications in portable applications with
+reduced processing requirements for the system processor. By providing an integrated MotionFusion output,
+the DMP in the MPU-60X0 offloads the intensive MotionProcessing computation requirements from the
+system processor, minimizing the need for frequent polling of the motion sensor output.
+Communication with all registers of the device is performed using either I 2 C at 400kHz or SPI at 1MHz
+(MPU-6000 only). For applications requiring faster communications, the sensor and interrupt registers may
+be read using SPI at 20MHz (MPU-6000 only). Additional features include an embedded temperature sensor
+and an on-chip oscillator with ±1% variation over the operating temperature range.
+By leveraging its patented and volume-proven Nasiri-Fabrication platform, which integrates MEMS wafers
+with companion CMOS electronics through wafer-level bonding, InvenSense has driven the MPU-60X0
+package size down to a revolutionary footprint of 4x4x0.9mm (QFN), while providing the highest
+performance, lowest noise, and the lowest cost semiconductor packaging required for handheld consumer
+electronic devices. The part features a robust 10,000g shock tolerance, and has programmable low-pass
+filters for the gyroscopes, accelerometers, and the on-chip temperature sensor.
+For power supply flexibility, the MPU-60X0 operates from VDD power supply voltage range of 2.375V-3.46V.
+Additionally, the MPU-6050 provides a VLOGIC reference pin (in addition to its analog supply pin: VDD),
+which sets the logic levels of its I 2 C interface. The VLOGIC voltage may be 1.8V±5% or VDD.
+The MPU-6000 and MPU-6050 are identical, except that the MPU-6050 supports the I 2 C serial interface only,
+and has a separate VLOGIC reference pin. The MPU-6000 supports both I 2 C and SPI interfaces and has a
+single supply pin, VDD, which is both the device’s logic reference supply and the analog supply for the part.
+The table below outlines these differences:
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+8 of 52
+Primary Differences between MPU-6000 and MPU-6050
+Part / Item MPU-6000 MPU-6050
+VDD 2.375V-3.46V 2.375V-3.46V
+VLOGIC n/a 1.71V to VDD
+Serial Interfaces Supported I 2 C, SPI I 2 C
+Pin 8 /CS VLOGIC
+Pin 9 AD0/SDO AD0
+Pin 23 SCL/SCLK SCL
+Pin 24 SDA/SDI SDA
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+9 of 52
+4 Applications
+ BlurFree™ technology (for Video/Still Image Stabilization)
+ AirSign™ technology (for Security/Authentication)
+ TouchAnywhere™ technology (for “no touch” UI Application Control/Navigation)
+ MotionCommand™ technology (for Gesture Short-cuts)
+ Motion-enabled game and application framework
+ InstantGesture™ iG™ gesture recognition
+ Location based services, points of interest, and dead reckoning
+ Handset and portable gaming
+ Motion-based game controllers
+ 3D remote controls for Internet connected DTVs and set top boxes, 3D mice
+ Wearable sensors for health, fitness and sports
+ Toys
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+10 of 52
+5 Features
+5.1 Gyroscope Features
+The triple-axis MEMS gyroscope in the MPU-60X0 includes a wide range of features:
+ Digital-output X-, Y-, and Z-Axis angular rate sensors (gyroscopes) with a user-programmable full-
+scale range of ±250, ±500, ±1000, and ±2000°/sec
+ External sync signal connected to the FSYNC pin supports image, video and GPS synchronization
+ Integrated 16-bit ADCs enable simultaneous sampling of gyros
+ Enhanced bias and sensitivity temperature stability reduces the need for user calibration
+ Improved low-frequency noise performance
+ Digitally-programmable low-pass filter
+ Gyroscope operating current: 3.6mA
+ Standby current: 5µA
+ Factory calibrated sensitivity scale factor
+ User self-test
+5.2 Accelerometer Features
+The triple-axis MEMS accelerometer in MPU-60X0 includes a wide range of features:
+ Digital-output triple-axis accelerometer with a programmable full scale range of ±2g, ±4g, ±8g and
+±16g
+ Integrated 16-bit ADCs enable simultaneous sampling of accelerometers while requiring no external
+multiplexer
+ Accelerometer normal operating current: 500µA
+ Low power accelerometer mode current: 10µA at 1.25Hz, 20µA at 5Hz, 60µA at 20Hz, 110µA at
+40Hz
+ Orientation detection and signaling
+ Tap detection
+ User-programmable interrupts
+ High-G interrupt
+ User self-test
+5.3 Additional Features
+The MPU-60X0 includes the following additional features:
+ 9-Axis MotionFusion by the on-chip Digital Motion Processor (DMP)
+ Auxiliary master I 2 C bus for reading data from external sensors (e.g., magnetometer)
+ 3.9mA operating current when all 6 motion sensing axes and the DMP are enabled
+ VDD supply voltage range of 2.375V-3.46V
+ Flexible VLOGIC reference voltage supports multiple I 2 C interface voltages (MPU-6050 only)
+ Smallest and thinnest QFN package for portable devices: 4x4x0.9mm
+ Minimal cross-axis sensitivity between the accelerometer and gyroscope axes
+ 1024 byte FIFO buffer reduces power consumption by allowing host processor to read the data in
+bursts and then go into a low-power mode as the MPU collects more data
+ Digital-output temperature sensor
+ User-programmable digital filters for gyroscope, accelerometer, and temp sensor
+ 10,000 g shock tolerant
+ 400kHz Fast Mode I 2 C for communicating with all registers
+ 1MHz SPI serial interface for communicating with all registers (MPU-6000 only)
+ 20MHz SPI serial interface for reading sensor and interrupt registers (MPU-6000 only)
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+11 of 52
+ MEMS structure hermetically sealed and bonded at wafer level
+ RoHS and Green compliant
+5.4 MotionProcessing
+ Internal Digital Motion Processing™ (DMP™) engine supports 3D MotionProcessing and gesture
+recognition algorithms
+ The MPU-60X0 collects gyroscope and accelerometer data while synchronizing data sampling at a
+user defined rate. The total dataset obtained by the MPU-60X0 includes 3-Axis gyroscope data, 3-
+Axis accelerometer data, and temperature data. The MPU’s calculated output to the system
+processor can also include heading data from a digital 3-axis third party magnetometer.
+ The FIFO buffers the complete data set, reducing timing requirements on the system processor by
+allowing the processor burst read the FIFO data. After burst reading the FIFO data, the system
+processor can save power by entering a low-power sleep mode while the MPU collects more data.
+ Programmable interrupt supports features such as gesture recognition, panning, zooming, scrolling,
+tap detection, and shake detection
+ Digitally-programmable low-pass filters
+ Low-power pedometer functionality allows the host processor to sleep while the DMP maintains the
+step count.
+5.5 Clocking
+ On-chip timing generator ±1% frequency variation over full temperature range
+ Optional external clock inputs of 32.768kHz or 19.2MHz
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+12 of 52
+6 Electrical Characteristics
+6.1 Gyroscope Specifications
+VDD = 2.375V-3.46V, VLOGIC (MPU-6050 only) = 1.8V±5% or VDD, T A = 25°C
+PARAMETER CONDITIONS MIN TYP MAX UNITS NOTES
+GYROSCOPE SENSITIVITY
+Full-Scale Range FS_SEL=0 ±250 º/s
+FS_SEL=1 ±500 º/s
+FS_SEL=2 ±1000 º/s
+FS_SEL=3 ±2000 º/s
+Gyroscope ADC Word Length 16 bits
+Sensitivity Scale Factor FS_SEL=0 131 LSB/(º/s)
+FS_SEL=1 65.5 LSB/(º/s)
+FS_SEL=2 32.8 LSB/(º/s)
+FS_SEL=3 16.4 LSB/(º/s)
+Sensitivity Scale Factor Tolerance 25°C -3 +3 %
+Sensitivity Scale Factor Variation Over
+Temperature
+±2 %
+Nonlinearity Best fit straight line; 25°C 0.2 %
+Cross-Axis Sensitivity ±2 %
+GYROSCOPE ZERO-RATE OUTPUT (ZRO)
+Initial ZRO Tolerance 25°C ±20 º/s
+ZRO Variation Over Temperature -40°C to +85°C ±20 º/s
+Power-Supply Sensitivity (1-10Hz) Sine wave, 100mVpp; VDD=2.5V 0.2 º/s
+Power-Supply Sensitivity (10 - 250Hz) Sine wave, 100mVpp; VDD=2.5V 0.2 º/s
+Power-Supply Sensitivity (250Hz - 100kHz) Sine wave, 100mVpp; VDD=2.5V 4 º/s
+Linear Acceleration Sensitivity Static 0.1 º/s/g
+SELF-TEST RESPONSE
+Relative
+Change from factory trim
+-14
+14
+%
+1
+GYROSCOPE NOISE PERFORMANCE FS_SEL=0
+Total RMS Noise DLPFCFG=2 (100Hz) 0.05 º/s-rms
+Low-frequency RMS noise Bandwidth 1Hz to10Hz 0.033 º/s-rms
+Rate Noise Spectral Density At 10Hz 0.005 º/s/√Hz
+GYROSCOPE MECHANICAL
+FREQUENCIES
+X-Axis 30 33 36 kHz
+Y-Axis 27 30 33 kHz
+Z-Axis 24 27 30 kHz
+LOW PASS FILTER RESPONSE
+Programmable Range 5 256 Hz
+OUTPUT DATA RATE
+Programmable 4 8,000 Hz
+GYROSCOPE START-UP TIME DLPFCFG=0
+ZRO Settling (from power-on) to ±1º/s of Final 30 ms
+1. Please refer to the following document for further information on Self-Test: MPU-6000/MPU-6050 Register Map
+and Descriptions
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+13 of 52
+6.2 Accelerometer Specifications
+VDD = 2.375V-3.46V, VLOGIC (MPU-6050 only) = 1.8V±5% or VDD, T A = 25°C
+PARAMETER CONDITIONS MIN TYP MAX UNITS NOTES
+ACCELEROMETER SENSITIVITY
+Full-Scale Range AFS_SEL=0 ±2 g
+AFS_SEL=1 ±4 g
+AFS_SEL=2 ±8 g
+AFS_SEL=3 ±16 g
+ADC Word Length Output in two’s complement format 16 bits
+Sensitivity Scale Factor AFS_SEL=0 16,384 LSB/g
+AFS_SEL=1 8,192 LSB/g
+AFS_SEL=2 4,096 LSB/g
+AFS_SEL=3 2,048 LSB/g
+Initial Calibration Tolerance ±3 %
+Sensitivity Change vs. Temperature AFS_SEL=0, -40°C to +85°C ±0.02 %/°C
+Nonlinearity Best Fit Straight Line 0.5 %
+Cross-Axis Sensitivity ±2 %
+ZERO-G OUTPUT
+Initial Calibration Tolerance X and Y axes ±50 mg 1
+Z axis ±80 mg
+Zero-G Level Change vs. Temperature X and Y axes, 0°C to +70°C ±35
+Z axis, 0°C to +70°C ±60 mg
+SELF TEST RESPONSE
+Relative Change from factory trim -14 14 % 2
+NOISE PERFORMANCE
+Power Spectral Density @10Hz, AFS_SEL=0 & ODR=1kHz 400 g/√Hz
+LOW PASS FILTER RESPONSE
+Programmable Range 5 260 Hz
+OUTPUT DATA RATE
+Programmable Range 4 1,000 Hz
+INTELLIGENCE FUNCTION
+INCREMENT
+32 mg/LSB
+1. Typical zero-g initial calibration tolerance value after MSL3 preconditioning
+2. Please refer to the following document for further information on Self-Test: MPU-6000/MPU-6050 Register Map
+and Descriptions
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+14 of 52
+6.3 Electrical and Other Common Specifications
+VDD = 2.375V-3.46V, VLOGIC (MPU-6050 only) = 1.8V±5% or VDD, T A = 25°C
+PARAMETER CONDITIONS MIN TYP MAX Units Notes
+TEMPERATURE SENSOR
+Range -40 to +85 °C
+Sensitivity Untrimmed 340 LSB/ºC
+Temperature Offset 35 o C -521 LSB
+Linearity Best fit straight line (-40°C to
++85°C)
+±1 °C
+VDD POWER SUPPLY
+Operating Voltages 2.375 3.46 V
+Normal Operating Current Gyroscope + Accelerometer + DMP 3.9 mA
+Gyroscope + Accelerometer
+(DMP disabled) 3.8 mA
+Gyroscope + DMP
+(Accelerometer disabled) 3.7 mA
+Gyroscope only
+(DMP & Accelerometer disabled) 3.6 mA
+Accelerometer only
+(DMP & Gyroscope disabled) 500 µA
+Accelerometer Low Power Mode
+Current
+1.25 Hz update rate 10 µA
+5 Hz update rate 20 µA
+20 Hz update rate 70 µA
+40 Hz update rate 140 µA
+Full-Chip Idle Mode Supply Current 5 µA
+Power Supply Ramp Rate Monotonic ramp. Ramp rate is 10%
+to 90% of the final value
+100 ms
+VLOGIC REFERENCE VOLTAGE MPU-6050 only
+Voltage Range VLOGIC must be ≤VDD at all times 1.71 VDD V
+Power Supply Ramp Rate Monotonic ramp. Ramp rate is 10%
+to 90% of the final value
+3 ms
+Normal Operating Current 100 µA
+TEMPERATURE RANGE
+Specified Temperature Range Performance parameters are not
+applicable beyond Specified
+Temperature Range
+-40 +85 °C
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+15 of 52
+6.4 Electrical Specifications, Continued
+VDD = 2.375V-3.46V, VLOGIC (MPU-6050 only) = 1.8V±5% or VDD, T A = 25°C
+PARAMETER CONDITIONS MIN TYP MAX Units Notes
+SERIAL INTERFACE
+SPI Operating Frequency, All
+Registers Read/Write
+MPU-6000 only, Low Speed
+Characterization
+100 ±10% kHz
+MPU-6000 only, High Speed
+Characterization
+1 ±10% MHz
+SPI Operating Frequency, Sensor
+and Interrupt Registers Read Only
+MPU-6000 only
+20 ±10% MHz
+I 2 C Operating Frequency All registers, Fast-mode 400 kHz
+All registers, Standard-mode 100 kHz
+I 2 C ADDRESS AD0 = 0 1101000
+AD0 = 1 1101001
+DIGITAL INPUTS (SDI/SDA, AD0,
+SCLK/SCL, FSYNC, /CS, CLKIN)
+V IH , High Level Input Voltage MPU-6000 0.7*VDD V
+MPU-6050 0.7*VLOGIC V
+V IL , Low Level Input Voltage MPU-6000 0.3*VDD V
+MPU-6050 0.3*VLOGIC V
+C I , Input Capacitance < 5 pF
+DIGITAL OUTPUT (SDO, INT)
+V OH , High Level Output Voltage R LOAD =1MΩ; MPU-6000 0.9*VDD V
+R LOAD =1MΩ; MPU-6050 0.9*VLOGIC V
+V OL1 , LOW-Level Output Voltage R LOAD =1MΩ; MPU-6000 0.1*VDD V
+R LOAD =1MΩ; MPU-6050 0.1*VLOGIC V
+V OL.INT1 , INT Low-Level Output
+Voltage
+OPEN=1, 0.3mA sink
+Current
+0.1 V
+Output Leakage Current OPEN=1 100 nA
+t INT , INT Pulse Width LATCH_INT_EN=0 50 µs
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+16 of 52
+6.5 Electrical Specifications, Continued
+Typical Operating Circuit of Section 7.2, VDD = 2.375V-3.46V, VLOGIC (MPU-6050 only) = 1.8V±5% or
+VDD, T A = 25°C
+Parameters Conditions Typical Units Notes
+Primary I 2 C I/O (SCL, SDA)
+V IL , LOW-Level Input Voltage MPU-6000 -0.5 to 0.3*VDD V
+V IH , HIGH-Level Input Voltage MPU-6000 0.7*VDD to VDD + 0.5V V
+V hys , Hysteresis MPU-6000 0.1*VDD V
+VIL, LOW Level Input Voltage MPU-6050 -0.5V to 0.3*VLOGIC V
+VIH, HIGH-Level Input Voltage MPU-6050 0.7*VLOGIC to VLOGIC + 0.5V V
+Vhys, Hysteresis MPU-6050 0.1*VLOGIC V
+V OL1 , LOW-Level Output Voltage 3mA sink current 0 to 0.4 V
+I OL , LOW-Level Output Current V OL = 0.4V 3 mA
+V OL = 0.6V 5 mA
+Output Leakage Current 100 nA
+t of , Output Fall Time from V IHmax to V ILmax C b bus capacitance in pF 20+0.1C b to 250 ns
+C I , Capacitance for Each I/O pin < 10 pF
+Auxiliary I 2 C I/O (AUX_CL, AUX_DA) MPU-6050: AUX_VDDIO=0
+V IL , LOW-Level Input Voltage -0.5V to 0.3*VLOGIC V
+V IH , HIGH-Level Input Voltage 0.7*VLOGIC to
+VLOGIC + 0.5V
+V
+V hys , Hysteresis 0.1*VLOGIC V
+V OL1 , LOW-Level Output Voltage VLOGIC > 2V; 1mA sink current 0 to 0.4 V
+V OL3 , LOW-Level Output Voltage VLOGIC < 2V; 1mA sink current 0 to 0.2*VLOGIC V
+I OL , LOW-Level Output Current V OL = 0.4V
+V OL = 0.6V
+1
+1
+mA
+mA
+Output Leakage Current 100 nA
+t of , Output Fall Time from V IHmax to V ILmax C b bus capacitance in pF 20+0.1C b to 250 ns
+C I , Capacitance for Each I/O pin < 10 pF
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+17 of 52
+6.6 Electrical Specifications, Continued
+Typical Operating Circuit of Section 7.2, VDD = 2.375V-3.46V, VLOGIC (MPU-6050 only) = 1.8V±5% or
+VDD, T A = 25°C
+Parameters Conditions Min Typical Max Units Notes
+INTERNAL CLOCK SOURCE CLK_SEL=0,1,2,3
+Gyroscope Sample Rate, Fast DLPFCFG=0
+SAMPLERATEDIV = 0
+8 kHz
+Gyroscope Sample Rate, Slow DLPFCFG=1,2,3,4,5, or 6
+SAMPLERATEDIV = 0
+1 kHz
+Accelerometer Sample Rate 1 kHz
+Clock Frequency Initial Tolerance CLK_SEL=0, 25°C -5 +5 %
+CLK_SEL=1,2,3; 25°C -1 +1 %
+Frequency Variation over Temperature CLK_SEL=0 -15 to +10 %
+CLK_SEL=1,2,3 ±1 %
+PLL Settling Time CLK_SEL=1,2,3 1 10 ms
+EXTERNAL 32.768kHz CLOCK CLK_SEL=4
+External Clock Frequency 32.768 kHz
+External Clock Allowable Jitter Cycle-to-cycle rms 1 to 2 µs
+Gyroscope Sample Rate, Fast DLPFCFG=0
+SAMPLERATEDIV = 0
+8.192 kHz
+Gyroscope Sample Rate, Slow DLPFCFG=1,2,3,4,5, or 6
+SAMPLERATEDIV = 0
+1.024 kHz
+Accelerometer Sample Rate 1.024 kHz
+PLL Settling Time 1 10 ms
+EXTERNAL 19.2MHz CLOCK CLK_SEL=5
+External Clock Frequency 19.2 MHz
+Gyroscope Sample Rate Full programmable range 3.9 8000 Hz
+Gyroscope Sample Rate, Fast Mode DLPFCFG=0
+SAMPLERATEDIV = 0
+8 kHz
+Gyroscope Sample Rate, Slow Mode DLPFCFG=1,2,3,4,5, or 6
+SAMPLERATEDIV = 0
+1 kHz
+Accelerometer Sample Rate 1 kHz
+PLL Settling Time 1 10 ms
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+18 of 52
+6.7 I 2 C Timing Characterization
+Typical Operating Circuit of Section 7.2, VDD = 2.375V-3.46V, VLOGIC (MPU-6050 only) = 1.8V±5% or
+VDD, T A = 25°C
+Parameters Conditions Min Typical Max Units Notes
+I 2 C TIMING I 2 C FAST-MODE
+f SCL , SCL Clock Frequency 400 kHz
+t HD.STA , (Repeated) START Condition Hold
+Time
+0.6 µs
+t LOW , SCL Low Period 1.3 µs
+t HIGH , SCL High Period 0.6 µs
+t SU.STA , Repeated START Condition Setup
+Time
+0.6 µs
+t HD.DAT , SDA Data Hold Time 0 µs
+t SU.DAT , SDA Data Setup Time 100 ns
+t r , SDA and SCL Rise Time C b bus cap. from 10 to 400pF 20+0.1C b 300 ns
+t f , SDA and SCL Fall Time C b bus cap. from 10 to 400pF 20+0.1C b 300 ns
+t SU.STO , STOP Condition Setup Time 0.6 µs
+t BUF , Bus Free Time Between STOP and
+START Condition
+1.3 µs
+C b , Capacitive Load for each Bus Line < 400 pF
+t VD.DAT , Data Valid Time 0.9 µs
+t VD.ACK , Data Valid Acknowledge Time 0.9 µs
+Note: Timing Characteristics apply to both Primary and Auxiliary I 2 C Bus
+I 2 C Bus Timing Diagram
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+19 of 52
+6.8 SPI Timing Characterization (MPU-6000 only)
+Typical Operating Circuit of Section 7.2, VDD = 2.375V-3.46V, VLOGIC (MPU-6050 only) = 1.8V±5% or
+VDD,T A = 25°C, unless otherwise noted.
+Parameters Conditions Min Typical Max Units
+Notes
+SPI TIMING
+f SCLK , SCLK Clock Frequency
+1 MHz
+t LOW , SCLK Low Period
+400
+ns
+t HIGH , SCLK High Period
+400
+ns
+t SU.CS , CS Setup Time
+8
+ns
+t HD.CS , CS Hold Time
+500
+ns
+t SU.SDI , SDI Setup Time
+11
+ns
+t HD.SDI , SDI Hold Time
+7
+ns
+t VD.SDO , SDO Valid Time C load = 20pF
+100 ns
+t HD.SDO , SDO Hold Time C load = 20pF 4
+ns
+t DIS.SDO , SDO Output Disable Time
+10 ns
+SPI Bus Timing Diagram
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+20 of 52
+6.9 Absolute Maximum Ratings
+Stress above those listed as “Absolute Maximum Ratings” may cause permanent damage to the device.
+These are stress ratings only and functional operation of the device at these conditions is not implied.
+Exposure to the absolute maximum ratings conditions for extended periods may affect device reliability.
+Parameter Rating
+Supply Voltage, VDD -0.5V to +6V
+VLOGIC Input Voltage Level (MPU-6050) -0.5V to VDD + 0.5V
+REGOUT -0.5V to 2V
+Input Voltage Level (CLKIN, AUX_DA, AD0, FSYNC, INT,
+SCL, SDA)
+-0.5V to VDD + 0.5V
+CPOUT (2.5V ≤ VDD ≤ 3.6V ) -0.5V to 30V
+Acceleration (Any Axis, unpowered) 10,000g for 0.2ms
+Operating Temperature Range -40°C to +105°C
+Storage Temperature Range -40°C to +125°C
+Electrostatic Discharge (ESD) Protection
+2kV (HBM);
+250V (MM)
+Latch-up
+JEDEC Class II (2),125°C
+±100mA
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+21 of 52
+7 Applications Information
+7.1 Pin Out and Signal Description
+Pin Number
+MPU-
+6000
+MPU-
+6050
+Pin Name Pin Description
+1 Y Y CLKIN Optional external reference clock input. Connect to GND if unused.
+6 Y Y AUX_DA I 2 C master serial data, for connecting to external sensors
+7 Y Y AUX_CL I 2 C Master serial clock, for connecting to external sensors
+8 Y /CS SPI chip select (0=SPI mode)
+8 Y VLOGIC Digital I/O supply voltage
+9 Y AD0 / SDO I 2 C Slave Address LSB (AD0); SPI serial data output (SDO)
+9 Y AD0 I 2 C Slave Address LSB (AD0)
+10 Y Y REGOUT Regulator filter capacitor connection
+11 Y Y FSYNC Frame synchronization digital input. Connect to GND if unused.
+12 Y Y INT Interrupt digital output (totem pole or open-drain)
+13 Y Y VDD Power supply voltage and Digital I/O supply voltage
+18 Y Y GND Power supply ground
+19, 21 Y Y RESV Reserved. Do not connect.
+20 Y Y CPOUT Charge pump capacitor connection
+22 Y Y RESV Reserved. Do not connect.
+23 Y SCL / SCLK I 2 C serial clock (SCL); SPI serial clock (SCLK)
+23 Y SCL I 2 C serial clock (SCL)
+24 Y SDA / SDI I 2 C serial data (SDA); SPI serial data input (SDI)
+24 Y SDA I 2 C serial data (SDA)
+2, 3, 4, 5, 14,
+15, 16, 17
+Y Y NC Not internally connected. May be used for PCB trace routing.
+MPU-6000
+MPU-6050
++Z
++X
++Y
+7 8 9 10 11 12
+AUX_CL
+VLOGIC
+AD0
+REGOUT
+FSYNC
+INT
+13
+18
+17
+16
+15
+14
+NC
+NC
+NC
+VDD
+NC
+GND
+6
+1
+2
+3
+4
+5
+NC
+NC
+NC
+AUX_DA
+NC
+CLKIN
+24 23 22 21 20 19
+RESV
+CPOUT
+RESV
+RESV
+SCL
+SDA
+MPU-6050
+QFN Package
+24-pin, 4mm x 4mm x 0.9mm
+Orientation of Axes of Sensitivity and
+Polarity of Rotation
+Top View
++Z
++Y
++X
+7 8 9 10 11 12
+AUX_CL
+/CS
+AD0/SDO
+REGOUT
+FSYNC
+INT
+13
+18
+17
+16
+15
+14
+NC
+NC
+NC
+VDD
+NC
+GND
+6
+1
+2
+3
+4
+5
+NC
+NC
+NC
+AUX_DA
+NC
+CLKIN
+24 23 22 21 20 19
+RESV
+CPOUT
+RESV
+RESV
+SCL/SCLK
+SDA/SDI
+MPU-6000
+QFN Package
+24-pin, 4mm x 4mm x 0.9mm
+Top View
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+22 of 52
+7.2 Typical Operating Circuit
+AD0 / SDO
+Typical Operating Circuits
+7 8 9 10 11 12
+13
+18
+17
+16
+15
+14
+6
+1
+2
+3
+4
+5
+24 23 22 21 20 19
+MPU-6000
+CLKIN
+/CS
+GND
+GND
+GND
+FSYNC
+INT
+GND
+VDD
+SCL / SCLK
+SDA / SDI
+C3
+2.2nF
+C1
+0.1µF
+C2
+0.1µF
+AD0
+7 8 9 10 11 12
+13
+18
+17
+16
+15
+14
+6
+1
+2
+3
+4
+5
+24 23 22 21 20 19
+MPU-6050
+CLKIN
+GND
+GND
+GND
+FSYNC
+INT
+GND
+VDD
+SCL
+SDA
+C3
+2.2nF
+C1
+0.1µF
+C2
+0.1µF
+GND
+VLOGIC
+C4
+10nF
+AUX_CL
+AUX_DA
+AUX_CL
+AUX_DA
+7.3 Bill of Materials for External Components
+Component Label Specification Quantity
+Regulator Filter Capacitor (Pin 10) C1 Ceramic, X7R, 0.1µF ±10%, 2V 1
+VDD Bypass Capacitor (Pin 13) C2 Ceramic, X7R, 0.1µF ±10%, 4V 1
+Charge Pump Capacitor (Pin 20) C3 Ceramic, X7R, 2.2nF ±10%, 50V 1
+VLOGIC Bypass Capacitor (Pin 8) C4* Ceramic, X7R, 10nF ±10%, 4V 1
+* MPU-6050 Only.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+23 of 52
+7.4 Recommended Power-on Procedure
+T VLGR
+VLOGIC
+VDD
+T VDDR
+All Voltages at 0V
+Power-Up Sequencing
+1. VLOGIC amplitude must always be ≤VDD
+amplitude
+2. T VDDR is VDD rise time: Time for VDD to rise
+from 10% to 90% of its final value
+3. T VDDR is ≤100ms
+4. T VLGR is VLOGIC rise time: Time for
+VLOGIC to rise from 10% to 90% of its final
+value
+5. T VLGR is ≤3ms
+6. T VLG-VDD is the delay from the start of VDD
+ramp to the start of VLOGIC rise
+7. T VLG-VDD is ≥0
+8. VDD and VLOGIC must be monotonic
+ramps
+90%
+10%
+90%
+10%
+T VLG - VDD
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+24 of 52
+7.5 Block Diagram
+CLOCK MPU-60X0
+Charge
+Pump
+(/CS)
+AD0 / (SDO)
+SCL / (SCLK)
+SDA / (SDI)
+Temp Sensor ADC
+ADC Z Gyro
+ADC Y Gyro
+Digital Motion
+Processor
+(DMP)
+FSYNC
+22
+1
+8
+9
+23
+24
+11
+Slave I2C and
+SPI Serial
+Interface
+Master I2C
+Serial
+Interface
+Clock
+CPOUT
+Serial
+Interface
+Bypass
+Mux
+7
+6
+AUX_CL
+AUX_DA
+INT
+12
+20
+Factory
+Calibration
+Interrupt
+Status
+Register
+VDD
+Bias & LDO
+GND REGOUT
+13 18 10
+Note: Pin names in round brackets ( ) apply only to MPU-6000
+Pin names in square brackets [ ] apply only to MPU-6050
+Z Accel
+Y Accel
+X Accel ADC
+ADC
+ADC
+CLKIN
+CLKOUT
+ADC X Gyro
+Signal Conditioning
+FIFO
+Config
+Registers
+Sensor
+Registers
+Self
+test
+[VLOGIC]
+8
+Self
+test
+Self
+test
+Self
+test
+Self
+test
+Self
+test
+7.6 Overview
+The MPU-60X0 is comprised of the following key blocks and functions:
+ Three-axis MEMS rate gyroscope sensor with 16-bit ADCs and signal conditioning
+ Three-axis MEMS accelerometer sensor with 16-bit ADCs and signal conditioning
+ Digital Motion Processor (DMP) engine
+ Primary I 2 C and SPI (MPU-6000 only) serial communications interfaces
+ Auxiliary I 2 C serial interface for 3 rd party magnetometer & other sensors
+ Clocking
+ Sensor Data Registers
+ FIFO
+ Interrupts
+ Digital-Output Temperature Sensor
+ Gyroscope & Accelerometer Self-test
+ Bias and LDO
+ Charge Pump
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+25 of 52
+7.7 Three-Axis MEMS Gyroscope with 16-bit ADCs and Signal Conditioning
+The MPU-60X0 consists of three independent vibratory MEMS rate gyroscopes, which detect rotation about
+the X-, Y-, and Z- Axes. When the gyros are rotated about any of the sense axes, the Coriolis Effect causes
+a vibration that is detected by a capacitive pickoff. The resulting signal is amplified, demodulated, and filtered
+to produce a voltage that is proportional to the angular rate. This voltage is digitized using individual on-chip
+16-bit Analog-to-Digital Converters (ADCs) to sample each axis. The full-scale range of the gyro sensors
+may be digitally programmed to ±250, ±500, ±1000, or ±2000 degrees per second (dps). The ADC sample
+rate is programmable from 8,000 samples per second, down to 3.9 samples per second, and user-selectable
+low-pass filters enable a wide range of cut-off frequencies.
+7.8 Three-Axis MEMS Accelerometer with 16-bit ADCs and Signal Conditioning
+The MPU-60X0’s 3-Axis accelerometer uses separate proof masses for each axis. Acceleration along a
+particular axis induces displacement on the corresponding proof mass, and capacitive sensors detect the
+displacement differentially. The MPU-60X0’s architecture reduces the accelerometers’ susceptibility to
+fabrication variations as well as to thermal drift. When the device is placed on a flat surface, it will measure
+0g on the X- and Y-axes and +1g on the Z-axis. The accelerometers’ scale factor is calibrated at the factory
+and is nominally independent of supply voltage. Each sensor has a dedicated sigma-delta ADC for providing
+digital outputs. The full scale range of the digital output can be adjusted to ±2g, ±4g, ±8g, or ±16g.
+7.9 Digital Motion Processor
+The embedded Digital Motion Processor (DMP) is located within the MPU-60X0 and offloads computation of
+motion processing algorithms from the host processor. The DMP acquires data from accelerometers,
+gyroscopes, and additional 3 rd party sensors such as magnetometers, and processes the data. The resulting
+data can be read from the DMP’s registers, or can be buffered in a FIFO. The DMP has access to one of the
+MPU’s external pins, which can be used for generating interrupts.
+The purpose of the DMP is to offload both timing requirements and processing power from the host
+processor. Typically, motion processing algorithms should be run at a high rate, often around 200Hz, in order
+to provide accurate results with low latency. This is required even if the application updates at a much lower
+rate; for example, a low power user interface may update as slowly as 5Hz, but the motion processing should
+still run at 200Hz. The DMP can be used as a tool in order to minimize power, simplify timing, simplify the
+software architecture, and save valuable MIPS on the host processor for use in the application.
+7.10 Primary I 2 C and SPI Serial Communications Interfaces
+The MPU-60X0 communicates to a system processor using either a SPI (MPU-6000 only) or an I 2 C serial
+interface. The MPU-60X0 always acts as a slave when communicating to the system processor. The LSB of
+the of the I 2 C slave address is set by pin 9 (AD0).
+The logic levels for communications between the MPU-60X0 and its master are as follows:
+ MPU-6000: The logic level for communications with the master is set by the voltage on VDD
+ MPU-6050: The logic level for communications with the master is set by the voltage on VLOGIC
+For further information regarding the logic levels of the MPU-6050, please refer to Section 10.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+26 of 52
+7.11 Auxiliary I 2 C Serial Interface
+The MPU-60X0 has an auxiliary I 2 C bus for communicating to an off-chip 3-Axis digital output magnetometer
+or other sensors. This bus has two operating modes:
+ I 2 C Master Mode: The MPU-60X0 acts as a master to any external sensors connected to the
+auxiliary I 2 C bus
+ Pass-Through Mode: The MPU-60X0 directly connects the primary and auxiliary I 2 C buses together,
+allowing the system processor to directly communicate with any external sensors.
+Auxiliary I 2 C Bus Modes of Operation:
+ I 2 C Master Mode: Allows the MPU-60X0 to directly access the data registers of external digital
+sensors, such as a magnetometer. In this mode, the MPU-60X0 directly obtains data from auxiliary
+sensors, allowing the on-chip DMP to generate sensor fusion data without intervention from the
+system applications processor.
+For example, In I 2 C Master mode, the MPU-60X0 can be configured to perform burst reads,
+returning the following data from a magnetometer:
+ X magnetometer data (2 bytes)
+ Y magnetometer data (2 bytes)
+ Z magnetometer data (2 bytes)
+The I 2 C Master can be configured to read up to 24 bytes from up to 4 auxiliary sensors. A fifth sensor
+can be configured to work single byte read/write mode.
+ Pass-Through Mode: Allows an external system processor to act as master and directly
+communicate to the external sensors connected to the auxiliary I 2 C bus pins (AUX_DA and
+AUX_CL). In this mode, the auxiliary I 2 C bus control logic (3 rd party sensor interface block) of the
+MPU-60X0 is disabled, and the auxiliary I 2 C pins AUX_DA and AUX_CL (Pins 6 and 7) are
+connected to the main I 2 C bus (Pins 23 and 24) through analog switches.
+Pass-Through Mode is useful for configuring the external sensors, or for keeping the MPU-60X0 in a
+low-power mode when only the external sensors are used.
+In Pass-Through Mode the system processor can still access MPU-60X0 data through the I 2 C
+interface.
+Auxiliary I 2 C Bus IO Logic Levels
+ MPU-6000: The logic level of the auxiliary I 2 C bus is VDD
+ MPU-6050: The logic level of the auxiliary I 2 C bus can be programmed to be either VDD or VLOGIC
+For further information regarding the MPU-6050’s logic levels, please refer to Section 10.2.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+27 of 52
+7.12 Self-Test
+Please refer to the MPU-6000/MPU-6050 Register Map and Register Descriptions document for more details
+on self test.
+Self-test allows for the testing of the mechanical and electrical portions of the sensors. The self-test for each
+measurement axis can be activated by means of the gyroscope and accelerometer self-test registers
+(registers 13 to 16).
+When self-test is activated, the electronics cause the sensors to be actuated and produce an output signal.
+The output signal is used to observe the self-test response.
+The self-test response is defined as follows:
+Self-test response = Sensor output with self-test enabled – Sensor output without self-test enabled
+The self-test response for each accelerometer axis is defined in the accelerometer specification table
+(Section 6.2), while that for each gyroscope axis is defined in the gyroscope specification table (Section 6.1).
+When the value of the self-test response is within the min/max limits of the product specification, the part has
+passed self test. When the self-test response exceeds the min/max values, the part is deemed to have failed
+self-test. Code for operating self test code is included within the MotionApps software provided by
+InvenSense.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+28 of 52
+7.13 MPU-60X0 Solution for 9-axis Sensor Fusion Using I 2 C Interface
+In the figure below, the system processor is an I 2 C master to the MPU-60X0. In addition, the MPU-60X0 is an
+I 2 C master to the optional external compass sensor. The MPU-60X0 has limited capabilities as an I 2 C
+Master, and depends on the system processor to manage the initial configuration of any auxiliary sensors.
+The MPU-60X0 has an interface bypass multiplexer, which connects the system processor I 2 C bus pins 23
+and 24 (SDA and SCL) directly to the auxiliary sensor I 2 C bus pins 6 and 7 (AUX_DA and AUX_CL).
+Once the auxiliary sensors have been configured by the system processor, the interface bypass multiplexer
+should be disabled so that the MPU-60X0 auxiliary I 2 C master can take control of the sensor I 2 C bus and
+gather data from the auxiliary sensors.
+For further information regarding I 2 C master control, please refer to Section 10.
+MPU-60X0
+AD0/SDO
+SCL/SCLK
+SDA/SDI
+Digital
+Motion
+Processor
+(DMP)
+9
+23
+24
+Sensor
+Master I 2 C
+Serial
+Interface
+7
+6
+AUX_CL
+AUX_DA
+Interrupt
+Status
+Register
+INT
+12
+VDD
+Bias & LDO
+GND REGOUT
+13 18 10
+FIFO
+Config
+Register
+Sensor
+Register
+Factory
+Calibration
+/CS
+8
+Slave I 2 C
+or SPI
+Serial
+Interface
+Compass
+SCL
+SDA
+System
+Processor
+Interface
+Bypass
+Mux
+SCL
+SDA
+VDD
+VDD or GND
+I 2 C Processor Bus: for reading all
+sensor data from MPU and for
+configuring external sensors (i.e.
+compass in this example)
+Interface bypass mux allows
+direct configuration of
+compass by system processor
+Optional
+Sensor I 2 C Bus: for
+configuring and reading
+from external sensors
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+29 of 52
+7.14 MPU-6000 Using SPI Interface
+In the figure below, the system processor is an SPI master to the MPU-6000. Pins 8, 9, 23, and 24 are used
+to support the /CS, SDO, SCLK, and SDI signals for SPI communications. Because these SPI pins are
+shared with the I 2 C slave pins (9, 23 and 24), the system processor cannot access the auxiliary I 2 C bus
+through the interface bypass multiplexer, which connects the processor I 2 C interface pins to the sensor I 2 C
+interface pins.
+Since the MPU-6000 has limited capabilities as an I 2 C Master, and depends on the system processor to
+manage the initial configuration of any auxiliary sensors, another method must be used for programming the
+sensors on the auxiliary sensor I 2 C bus pins 6 and 7 (AUX_DA and AUX_CL).
+When using SPI communications between the MPU-6000 and the system processor, configuration of
+devices on the auxiliary I 2 C sensor bus can be achieved by using I 2 C Slaves 0-4 to perform read and write
+transactions on any device and register on the auxiliary I 2 C bus. The I 2 C Slave 4 interface can be used to
+perform only single byte read and write transactions.
+Once the external sensors have been configured, the MPU-6000 can perform single or multi-byte reads
+using the sensor I 2 C bus. The read results from the Slave 0-3 controllers can be written to the FIFO buffer as
+well as to the external sensor registers.
+For further information regarding the control of the MPU-60X0’s auxiliary I 2 C interface, please refer to the
+MPU-6000/MPU-6050 Register Map and Register Descriptions document.
+MPU-6000
+AD0/SDO
+SCL/SCLK
+SDA/SDI
+Digital
+Motion
+Processor
+(DMP)
+9
+23
+24
+Sensor
+Master I 2 C
+Serial
+Interface
+Interrupt
+Status
+Register
+INT
+12
+VDD
+Bias & LDO
+GND REGOUT
+13 18 10
+FIFO
+Config
+Register
+Sensor
+Register
+Factory
+Calibration
+/CS
+8
+Slave I 2 C
+or SPI
+Serial
+Interface
+System
+Processor
+Interface
+Bypass
+Mux
+SDI
+SCLK
+SDO
+/CS
+Processor SPI Bus: for reading all
+data from MPU and for configuring
+MPU and external sensors
+7
+6
+AUX_CL
+AUX_DA
+Compass
+SCL
+SDA
+Optional
+I 2 C Master performs
+read and write
+transactions on
+Sensor I 2 C bus.
+Sensor I 2 C Bus: for
+configuring and
+reading data from
+external sensors
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+30 of 52
+7.15 Internal Clock Generation
+The MPU-60X0 has a flexible clocking scheme, allowing a variety of internal or external clock sources to be
+used for the internal synchronous circuitry. This synchronous circuitry includes the signal conditioning and
+ADCs, the DMP, and various control circuits and registers. An on-chip PLL provides flexibility in the
+allowable inputs for generating this clock.
+Allowable internal sources for generating the internal clock are:
+ An internal relaxation oscillator
+ Any of the X, Y, or Z gyros (MEMS oscillators with a variation of ±1% over temperature)
+Allowable external clocking sources are:
+ 32.768kHz square wave
+ 19.2MHz square wave
+Selection of the source for generating the internal synchronous clock depends on the availability of external
+sources and the requirements for power consumption and clock accuracy. These requirements will most
+likely vary by mode of operation. For example, in one mode, where the biggest concern is power
+consumption, the user may wish to operate the Digital Motion Processor of the MPU-60X0 to process
+accelerometer data, while keeping the gyros off. In this case, the internal relaxation oscillator is a good clock
+choice. However, in another mode, where the gyros are active, selecting the gyros as the clock source
+provides for a more accurate clock source.
+Clock accuracy is important, since timing errors directly affect the distance and angle calculations performed
+by the Digital Motion Processor (and by extension, by any processor).
+There are also start-up conditions to consider. When the MPU-60X0 first starts up, the device uses its
+internal clock until programmed to operate from another source. This allows the user, for example, to wait
+for the MEMS oscillators to stabilize before they are selected as the clock source.
+7.16 Sensor Data Registers
+The sensor data registers contain the latest gyro, accelerometer, auxiliary sensor, and temperature
+measurement data. They are read-only registers, and are accessed via the serial interface. Data from these
+registers may be read anytime. However, the interrupt function may be used to determine when new data is
+available.
+For a table of interrupt sources please refer to Section 8.
+7.17 FIFO
+The MPU-60X0 contains a 1024-byte FIFO register that is accessible via the Serial Interface. The FIFO
+configuration register determines which data is written into the FIFO. Possible choices include gyro data,
+accelerometer data, temperature readings, auxiliary sensor readings, and FSYNC input. A FIFO counter
+keeps track of how many bytes of valid data are contained in the FIFO. The FIFO register supports burst
+reads. The interrupt function may be used to determine when new data is available.
+For further information regarding the FIFO, please refer to the MPU-6000/MPU-6050 Register Map and
+Register Descriptions document.
+7.18 Interrupts
+Interrupt functionality is configured via the Interrupt Configuration register. Items that are configurable include
+the INT pin configuration, the interrupt latching and clearing method, and triggers for the interrupt. Items that
+can trigger an interrupt are (1) Clock generator locked to new reference oscillator (used when switching clock
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+31 of 52
+sources); (2) new data is available to be read (from the FIFO and Data registers); (3) accelerometer event
+interrupts; and (4) the MPU-60X0 did not receive an acknowledge from an auxiliary sensor on the secondary
+I 2 C bus. The interrupt status can be read from the Interrupt Status register.
+For further information regarding interrupts, please refer to the MPU-60X0 Register Map and Register
+Descriptions document.
+For information regarding the MPU-60X0’s accelerometer event interrupts, please refer to Section 8.
+7.19 Digital-Output Temperature Sensor
+An on-chip temperature sensor and ADC are used to measure the MPU-60X0 die temperature. The
+readings from the ADC can be read from the FIFO or the Sensor Data registers.
+7.20 Bias and LDO
+The bias and LDO section generates the internal supply and the reference voltages and currents required by
+the MPU-60X0. Its two inputs are an unregulated VDD of 2.375 to 3.46V and a VLOGIC logic reference
+supply voltage of 1.71V to VDD (MPU-6050 only). The LDO output is bypassed by a capacitor at REGOUT.
+For further details on the capacitor, please refer to the Bill of Materials for External Components (Section
+7.3).
+7.21 Charge Pump
+An on-board charge pump generates the high voltage required for the MEMS oscillators. Its output is
+bypassed by a capacitor at CPOUT. For further details on the capacitor, please refer to the Bill of Materials
+for External Components (Section 7.3).
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+32 of 52
+8 Programmable Interrupts
+The MPU-60X0 has a programmable interrupt system which can generate an interrupt signal on the INT pin.
+Status flags indicate the source of an interrupt. Interrupt sources may be enabled and disabled individually.
+Table of Interrupt Sources
+Interrupt Name Module
+FIFO Overflow FIFO
+Data Ready Sensor Registers
+I 2 C Master errors: Lost Arbitration, NACKs I 2 C Master
+I 2 C Slave 4 I 2 C Master
+For information regarding the interrupt enable/disable registers and flag registers, please refer to the MPU-
+6000/MPU-6050 Register Map and Register Descriptions document. Some interrupt sources are explained
+below.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+33 of 52
+9 Digital Interface
+9.1 I 2 C and SPI (MPU-6000 only) Serial Interfaces
+The internal registers and memory of the MPU-6000/MPU-6050 can be accessed using either I 2 C at 400 kHz
+or SPI at 1MHz (MPU-6000 only). SPI operates in four-wire mode.
+Serial Interface
+Pin Number MPU-6000 MPU-6050 Pin Name Pin Description
+8 Y /CS SPI chip select (0=SPI enable)
+8 Y VLOGIC Digital I/O supply voltage. VLOGIC must be ≤ VDD at all times.
+9 Y AD0 / SDO I 2 C Slave Address LSB (AD0); SPI serial data output (SDO)
+9 Y AD0 I 2 C Slave Address LSB
+23 Y SCL / SCLK I 2 C serial clock (SCL); SPI serial clock (SCLK)
+23 Y SCL I 2 C serial clock
+24 Y SDA / SDI I 2 C serial data (SDA); SPI serial data input (SDI)
+24 Y SDA I 2 C serial data
+Note:
+To prevent switching into I 2 C mode when using SPI (MPU-6000), the I 2 C interface should be disabled by
+setting the I2C_IF_DIS configuration bit. Setting this bit should be performed immediately after waiting for the
+time specified by the “Start-Up Time for Register Read/Write” in Section 6.3.
+For further information regarding the I2C_IF_DIS bit, please refer to the MPU-6000/MPU-6050 Register Map
+and Register Descriptions document.
+9.2 I 2 C Interface
+I 2 C is a two-wire interface comprised of the signals serial data (SDA) and serial clock (SCL). In general, the
+lines are open-drain and bi-directional. In a generalized I 2 C interface implementation, attached devices can
+be a master or a slave. The master device puts the slave address on the bus, and the slave device with the
+matching address acknowledges the master.
+The MPU-60X0 always operates as a slave device when communicating to the system processor, which thus
+acts as the master. SDA and SCL lines typically need pull-up resistors to VDD. The maximum bus speed is
+400 kHz.
+The slave address of the MPU-60X0 is b110100X which is 7 bits long. The LSB bit of the 7 bit address is
+determined by the logic level on pin AD0. This allows two MPU-60X0s to be connected to the same I 2 C bus.
+When used in this configuration, the address of the one of the devices should be b1101000 (pin AD0 is logic
+low) and the address of the other should be b1101001 (pin AD0 is logic high).
+9.3 I 2 C Communications Protocol
+START (S) and STOP (P) Conditions
+Communication on the I 2 C bus starts when the master puts the START condition (S) on the bus, which is
+defined as a HIGH-to-LOW transition of the SDA line while SCL line is HIGH (see figure below). The bus is
+considered to be busy until the master puts a STOP condition (P) on the bus, which is defined as a LOW to
+HIGH transition on the SDA line while SCL is HIGH (see figure below).
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+34 of 52
+Additionally, the bus remains busy if a repeated START (Sr) is generated instead of a STOP condition.
+SDA
+SCL
+S
+START condition STOP condition
+P
+START and STOP Conditions
+Data Format / Acknowledge
+I 2 C data bytes are defined to be 8-bits long. There is no restriction to the number of bytes transmitted per
+data transfer. Each byte transferred must be followed by an acknowledge (ACK) signal. The clock for the
+acknowledge signal is generated by the master, while the receiver generates the actual acknowledge signal
+by pulling down SDA and holding it low during the HIGH portion of the acknowledge clock pulse.
+If a slave is busy and cannot transmit or receive another byte of data until some other task has been
+performed, it can hold SCL LOW, thus forcing the master into a wait state. Normal data transfer resumes
+when the slave is ready, and releases the clock line (refer to the following figure).
+DATA OUTPUT BY
+TRANSMITTER (SDA)
+DATA OUTPUT BY
+RECEIVER (SDA)
+SCL FROM
+MASTER
+START
+condition
+clock pulse for
+acknowledgement
+acknowledge
+not acknowledge
+1 2 8 9
+Acknowledge on the I 2 C Bus
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+35 of 52
+Communications
+After beginning communications with the START condition (S), the master sends a 7-bit slave address
+followed by an 8 th bit, the read/write bit. The read/write bit indicates whether the master is receiving data from
+or is writing to the slave device. Then, the master releases the SDA line and waits for the acknowledge
+signal (ACK) from the slave device. Each byte transferred must be followed by an acknowledge bit. To
+acknowledge, the slave device pulls the SDA line LOW and keeps it LOW for the high period of the SCL line.
+Data transmission is always terminated by the master with a STOP condition (P), thus freeing the
+communications line. However, the master can generate a repeated START condition (Sr), and address
+another slave without first generating a STOP condition (P). A LOW to HIGH transition on the SDA line while
+SCL is HIGH defines the stop condition. All SDA changes should take place when SCL is low, with the
+exception of start and stop conditions.
+SDA
+START
+condition
+SCL
+ADDRESS R/W ACK DATA ACK DATA ACK STOP
+condition
+S P
+1 – 7 8 9 1 – 7 8 9 1 – 7 8 9
+Complete I 2 C Data Transfer
+To write the internal MPU-60X0 registers, the master transmits the start condition (S), followed by the I 2 C
+address and the write bit (0). At the 9 th clock cycle (when the clock is high), the MPU-60X0 acknowledges the
+transfer. Then the master puts the register address (RA) on the bus. After the MPU-60X0 acknowledges the
+reception of the register address, the master puts the register data onto the bus. This is followed by the ACK
+signal, and data transfer may be concluded by the stop condition (P). To write multiple bytes after the last
+ACK signal, the master can continue outputting data rather than transmitting a stop signal. In this case, the
+MPU-60X0 automatically increments the register address and loads the data to the appropriate register. The
+following figures show single and two-byte write sequences.
+Single-Byte Write Sequence
+Burst Write Sequence
+Master S AD+W RA DATA P
+Slave ACK ACK ACK
+Master S AD+W RA DATA DATA P
+Slave ACK ACK ACK ACK
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+36 of 52
+To read the internal MPU-60X0 registers, the master sends a start condition, followed by the I 2 C address and
+a write bit, and then the register address that is going to be read. Upon receiving the ACK signal from the
+MPU-60X0, the master transmits a start signal followed by the slave address and read bit. As a result, the
+MPU-60X0 sends an ACK signal and the data. The communication ends with a not acknowledge (NACK)
+signal and a stop bit from master. The NACK condition is defined such that the SDA line remains high at the
+9 th clock cycle. The following figures show single and two-byte read sequences.
+Single-Byte Read Sequence
+Burst Read Sequence
+9.4 I 2 C Terms
+Signal Description
+S Start Condition: SDA goes from high to low while SCL is high
+AD Slave I 2 C address
+W Write bit (0)
+R Read bit (1)
+ACK Acknowledge: SDA line is low while the SCL line is high at the
+9 th clock cycle
+NACK Not-Acknowledge: SDA line stays high at the 9 th clock cycle
+RA MPU-60X0 internal register address
+DATA Transmit or received data
+P Stop condition: SDA going from low to high while SCL is high
+Master S AD+W RA S AD+R NACK P
+Slave ACK ACK ACK DATA
+Master S AD+W RA S AD+R ACK NACK P
+Slave ACK ACK ACK DATA DATA
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+37 of 52
+9.5 SPI Interface (MPU-6000 only)
+SPI is a 4-wire synchronous serial interface that uses two control lines and two data lines. The MPU-6000
+always operates as a Slave device during standard Master-Slave SPI operation.
+With respect to the Master, the Serial Clock output (SCLK), the Serial Data Output (SDO) and the Serial
+Data Input (SDI) are shared among the Slave devices. Each SPI slave device requires its own Chip Select
+(/CS) line from the master.
+/CS goes low (active) at the start of transmission and goes back high (inactive) at the end. Only one /CS line
+is active at a time, ensuring that only one slave is selected at any given time. The /CS lines of the non-
+selected slave devices are held high, causing their SDO lines to remain in a high-impedance (high-z) state
+so that they do not interfere with any active devices.
+SPI Operational Features
+1. Data is delivered MSB first and LSB last
+2. Data is latched on the rising edge of SCLK
+3. Data should be transitioned on the falling edge of SCLK
+4. The maximum frequency of SCLK is 1MHz
+5. SPI read and write operations are completed in 16 or more clock cycles (two or more bytes). The
+first byte contains the SPI Address, and the following byte(s) contain(s) the SPI data. The first
+bit of the first byte contains the Read/Write bit and indicates the Read (1) or Write (0) operation.
+The following 7 bits contain the Register Address. In cases of multiple-byte Read/Writes, data is
+two or more bytes:
+SPI Address format
+MSB LSB
+R/W A6 A5 A4 A3 A2 A1 A0
+SPI Data format
+MSB LSB
+D7 D6 D5 D4 D3 D2 D1 D0
+6. Supports Single or Burst Read/Writes.
+Typical SPI Master / Slave Configuration
+SPI Master SPI Slave 1
+SPI Slave 2
+/CS1
+/CS2
+SCLK
+SDI
+SDO
+/CS
+SCLK
+SDI
+SDO
+/CS
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+38 of 52
+10 Serial Interface Considerations (MPU-6050)
+10.1 MPU-6050 Supported Interfaces
+The MPU-6050 supports I 2 C communications on both its primary (microprocessor) serial interface and its
+auxiliary interface.
+10.2 Logic Levels
+The MPU-6050’s I/O logic levels are set to be VLOGIC, as shown in the table below. AUX_VDDIO must be
+set to 0.
+I/O Logic Levels vs. AUX_VDDIO
+AUX_VDDIO
+MICROPROCESSOR LOGIC LEVELS
+(Pins: SDA, SCL, AD0, CLKIN, INT)
+AUXILLARY LOGIC LEVELS
+(Pins: AUX_DA, AUX_CL)
+0 VLOGIC VLOGIC
+Note: The power-on-reset value for AUX_VDDIO is 0.
+When AUX_VDDIO is set to 0 (its power-on-reset value), VLOGIC is the power supply voltage for both the
+microprocessor system bus and the auxiliary I 2 C bus, as shown in the figure of Section 10.3.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+39 of 52
+10.3 Logic Levels Diagram for AUX_VDDIO = 0
+The figure below depicts a sample circuit with a third party magnetometer attached to the auxiliary I 2 C bus. It
+shows logic levels and voltage connections for AUX_VDDIO = 0. Note: Actual configuration will depend on
+the auxiliary sensors used.
+MPU-6050
+3 rd Party
+Magnetometer
+SDA
+AUX_CL SCL
+AUX_DA
+VDD_IO
+VDD
+SA0
+INT 2
+INT 1
+System
+Processor IO
+CLKIN
+SYSTEM BUS
+VLOGIC
+VLOGIC
+VLOGIC
+VDD
+VLOGIC
+(0V - VLOGIC)
+SCL
+SDA
+INT
+FSYNC
+VLOGIC
+AD0
+(0V - VLOGIC)
+(0V - VLOGIC)
+(0V - VLOGIC)
+(0V - VLOGIC)
+(0V - VLOGIC)
+(0V - VLOGIC)
+(0V - VLOGIC)
+(0V - VLOGIC)
+(0V - VLOGIC)
+(0V, VLOGIC)
+(0V, VLOGIC)
+CS
+(0V, VLOGIC)
+VDD_IO
+I/O Levels and Connections for AUX_VDDIO = 0
+Notes:
+1. AUX_VDDIO determines the IO voltage levels of AUX_DA and AUX_CL
+(0 = set output levels relative to VLOGIC)
+2. All other MPU-6050 logic IOs are referenced to VLOGIC.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+40 of 52
+11 Assembly
+This section provides general guidelines for assembling InvenSense Micro Electro-Mechanical Systems
+(MEMS) gyros packaged in Quad Flat No leads package (QFN) surface mount integrated circuits.
+11.1 Orientation of Axes
+The diagram below shows the orientation of the axes of sensitivity and the polarity of rotation. Note the pin 1
+identifier (•) in the figure.
+MPU-6000
+MPU-6050
++Z
++X
++Y
+Orientation of Axes of Sensitivity and
+Polarity of Rotation
++Z
++Y
++X
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+41 of 52
+11.2 Package Dimensions
+24 Lead QFN (4x4x0.9) mm NiPdAu Lead-frame finish
+SYMBOLS DIMENSIONS IN MILLIMETERS
+MIN NOM MAX
+A 0.85 0.90 0.95
+A1 0.00 0.02 0.05
+b 0.18 0.25 0.30
+c --- 0.20 REF ---
+D 3.90 4.00 4.10
+D2 2.65 2.70 2.75
+E 3.90 4.00 4.10
+E2 2.55 2.60 2.65
+e --- 0.50 ---
+f (e-b) --- 0.25 ---
+K 0.25 0.30 0.35
+L 0.30 0.35 0.40
+L1 0.35 0.40 0.45
+s 0.05 --- 0.15
+CO.3
+D
+D2
+1
+6
+7
+18
+13
+12
+E
+PIN 1 IDENTIFIER IS A LASER
+MARKED FEATURE ON TOP
+24 19
+e
+b
+c
+A1
+A
+On 4 corners -
+lead dimensions
+s
+s
+L
+E2
+L1
+f
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+42 of 52
+11.3 PCB Design Guidelines
+The Pad Diagram using a JEDEC type extension with solder rising on the outer edge is shown below. The
+Pad Dimensions Table shows pad sizing (mean dimensions) recommended for the MPU-60X0 product.
+JEDEC type extension with solder rising on outer edge
+PCB Layout Diagram
+SYMBOLS DIMENSIONS IN MILLIMETERS NOM
+Nominal Package I/O Pad Dimensions
+e Pad Pitch 0.50
+b Pad Width 0.25
+L Pad Length 0.35
+L1 Pad Length 0.40
+D Package Width 4.00
+E Package Length 4.00
+D2 Exposed Pad Width 2.70
+E2 Exposed Pad Length 2.60
+I/O Land Design Dimensions (Guidelines )
+D3 I/O Pad Extent Width 4.80
+E3 I/O Pad Extent Length 4.80
+c Land Width 0.35
+Tout Outward Extension 0.40
+Tin Inward Extension 0.05
+L2 Land Length 0.80
+L3 Land Length 0.85
+PCB Dimensions Table (for PCB Lay-out Diagram)
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+43 of 52
+11.4 Assembly Precautions
+11.4.1 Gyroscope Surface Mount Guidelines
+InvenSense MEMS Gyros sense rate of rotation. In addition, gyroscopes sense mechanical stress coming
+from the printed circuit board (PCB). This PCB stress can be minimized by adhering to certain design rules:
+When using MEMS gyroscope components in plastic packages, PCB mounting and assembly can cause
+package stress. This package stress in turn can affect the output offset and its value over a wide range of
+temperatures. This stress is caused by the mismatch between the Coefficient of Linear Thermal Expansion
+(CTE) of the package material and the PCB. Care must be taken to avoid package stress due to mounting.
+Traces connected to pads should be as symmetric as possible. Maximizing symmetry and balance for pad
+connection will help component self alignment and will lead to better control of solder paste reduction after
+reflow.
+Any material used in the surface mount assembly process of the MEMS gyroscope should be free of
+restricted RoHS elements or compounds. Pb-free solders should be used for assembly.
+11.4.2 Exposed Die Pad Precautions
+The MPU-60X0 has very low active and standby current consumption. The exposed die pad is not required
+for heat sinking, and should not be soldered to the PCB. Failure to adhere to this rule can induce
+performance changes due to package thermo-mechanical stress. There is no electrical connection between
+the pad and the CMOS.
+11.4.3 Trace Routing
+Routing traces or vias under the gyro package such that they run under the exposed die pad is prohibited.
+Routed active signals may harmonically couple with the gyro MEMS devices, compromising gyro response.
+These devices are designed with the drive frequencies as follows: X = 33±3Khz, Y = 30±3Khz, and
+Z=27±3Khz. To avoid harmonic coupling don’t route active signals in non-shielded signal planes directly
+below, or above the gyro package. Note: For best performance, design a ground plane under the e-pad to
+reduce PCB signal noise from the board on which the gyro device is mounted. If the gyro device is stacked
+under an adjacent PCB board, design a ground plane directly above the gyro device to shield active signals
+from the adjacent PCB board.
+11.4.4 Component Placement
+Do not place large insertion components such as keyboard or similar buttons, connectors, or shielding boxes
+at a distance of less than 6 mm from the MEMS gyro. Maintain generally accepted industry design practices
+for component placement near the MPU-60X0 to prevent noise coupling and thermo-mechanical stress.
+11.4.5 PCB Mounting and Cross-Axis Sensitivity
+Orientation errors of the gyroscope and accelerometer mounted to the printed circuit board can cause cross-
+axis sensitivity in which one gyro or accel responds to rotation or acceleration about another axis,
+respectively. For example, the X-axis gyroscope may respond to rotation about the Y or Z axes. The
+orientation mounting errors are illustrated in the figure below.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+44 of 52
+Package Gyro & Accel Axes ( ) Relative to PCB Axes ( ) with Orientation Errors (Θ and Φ)
+MPU-6000
+MPU-6050
+Φ
+Θ X
+Y
+Z
+The table below shows the cross-axis sensitivity as a percentage of the gyroscope or accelerometer’s
+sensitivity for a given orientation error, respectively.
+Cross-Axis Sensitivity vs. Orientation Error
+Orientation Error
+(θ or Φ)
+Cross-Axis Sensitivity
+(sinθ or sinΦ)
+0º 0%
+0.5º 0.87%
+1º 1.75%
+The specifications for cross-axis sensitivity in Section 6.1 and Section 6.2 include the effect of the die
+orientation error with respect to the package.
+11.4.6 MEMS Handling Instructions
+MEMS (Micro Electro-Mechanical Systems) are a time-proven, robust technology used in hundreds of
+millions of consumer, automotive and industrial products. MEMS devices consist of microscopic moving
+mechanical structures. They differ from conventional IC products, even though they can be found in similar
+packages. Therefore, MEMS devices require different handling precautions than conventional ICs prior to
+mounting onto printed circuit boards (PCBs).
+The MPU-60X0 has been qualified to a shock tolerance of 10,000g. InvenSense packages its gyroscopes as
+it deems proper for protection against normal handling and shipping. It recommends the following handling
+precautions to prevent potential damage.
+ Do not drop individually packaged gyroscopes, or trays of gyroscopes onto hard surfaces. Components
+placed in trays could be subject to g-forces in excess of 10,000g if dropped.
+ Printed circuit boards that incorporate mounted gyroscopes should not be separated by manually
+snapping apart. This could also create g-forces in excess of 10,000g.
+ Do not clean MEMS gyroscopes in ultrasonic baths. Ultrasonic baths can induce MEMS damage if the
+bath energy causes excessive drive motion through resonant frequency coupling.
+11.4.7 ESD Considerations
+Establish and use ESD-safe handling precautions when unpacking and handling ESD-sensitive devices.
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+45 of 52
+ Store ESD sensitive devices in ESD safe containers until ready for use. The Tape-and-Reel moisture-
+sealed bag is an ESD approved barrier. The best practice is to keep the units in the original moisture
+sealed bags until ready for assembly.
+Restrict all device handling to ESD protected work areas that measure less than 200V static charge. Ensure
+that all workstations and personnel are properly grounded to prevent ESD.
+11.4.8 Reflow Specification
+Qualification Reflow: The MPU-60X0 was qualified in accordance with IPC/JEDEC J-STD-020D.1. This
+standard classifies proper packaging, storage and handling in order to avoid subsequent thermal and
+mechanical damage during the solder reflow attachment phase of PCB assembly.
+The qualification preconditioning process specifies a sequence consisting of a bake cycle, a moisture soak
+cycle (in a temperature humidity oven), and three consecutive solder reflow cycles, followed by functional
+device testing.
+The peak solder reflow classification temperature requirement for package qualification is (260 +5/-0°C) for
+lead-free soldering of components measuring less than 1.6 mm in thickness. The qualification profile and a
+table explaining the set-points are shown below:
+Temperature [°C]
+Time [Seconds]
+SOLDER REFLOW PROFILE FOR QUALIFICATION
+LEAD-FREE IR/CONVECTION
+Preheat
+60-120sec
+T smax
+T smin
+T Liquidus
+T Pmin
+T Pmax
+Liquidus
+60-120sec
+10-30sec
+T ramp-up
+( < 3 C/sec)
+T ramp-down
+( < 4 C/sec)
+T room-Pmax
+(< 480sec)
+A
+B
+C
+D
+E
+F
+G
+H
+I
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+46 of 52
+Temperature Set Points Corresponding to Reflow Profile Above
+Step Setting
+CONSTRAINTS
+Temp (°C) Time (sec) Max. Rate (°C/sec)
+A T room 25
+B T Smin 150
+C T Smax 200 60 < t BC < 120
+D T Liquidus 217 r (TLiquidus-TPmax) < 3
+E T Pmin [255°C, 260°C] 255 r (TLiquidus-TPmax) < 3
+F T Pmax [ 260°C, 265°C] 260 t AF < 480 r (TLiquidus-TPmax) < 3
+G T Pmin [255°C, 260°C] 255 10< t EG < 30 r (TPmax-TLiquidus) < 4
+H T Liquidus 217 60 < t DH < 120
+I T room 25
+Notes: Customers must never exceed the Classification temperature (T Pmax = 260°C).
+All temperatures refer to the topside of the QFN package, as measured on the package body surface.
+Production Reflow: Check the recommendations of your solder manufacturer. For optimum results, use
+lead-free solders that have lower specified temperature profiles (Tp max ~ 235°C). Also use lower ramp-up and
+ramp-down rates than those used in the qualification profile. Never exceed the maximum conditions that we
+used for qualification, as these represent the maximum tolerable ratings for the device.
+11.5 Storage Specifications
+The storage specification of the MPU-60X0 conforms to IPC/JEDEC J-STD-020D.1 Moisture Sensitivity
+Level (MSL) 3.
+Calculated shelf-life in moisture-sealed bag 12 months -- Storage conditions: <40°C and <90% RH
+After opening moisture-sealed bag 168 hours -- Storage conditions: ambient ≤30°C at 60%RH
+11.6 Package Marking Specification
+INVENSENSE
+MPU6000
+X X X X X X-X X
+X X Y Y W W X
+Lot traceability code
+Foundry code
+Package Vendor Code
+Rev Code
+Y Y = Year Code
+W W = Work Week
+TOP VIEW
+Part number
+INVENSENSE
+MPU6050
+X X X X X X-X X
+X X Y Y W W X
+TOP VIEW
+Package Marking Specification
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+47 of 52
+11.7 Tape & Reel Specification
+Tape Dimensions
+Reel Outline Drawing
+Reel Dimensions and Package Size
+PACKAGE
+SIZE
+REEL (mm)
+L V W Z
+4x4 330 102 12.8 2.3
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+48 of 52
+Tape and Reel Specification
+Reel Specifications
+Quantity Per Reel 5,000
+Reels per Box 1
+Boxes Per Carton (max) 5
+Pcs/Carton (max) 25,000
+11.8 Label
+Barcode Label Location of Label on Reel
+Label
+Reel
+Cover Tape
+(Anti-Static)
+Carrier Tape
+(Anti-Static)
+Terminal Tape
+User Direction
+of Feed
+INVENSENSE INVENSENSE INVENSENSE INVENSENSE
+Pin 1
+Package Orientation
+I n ve n S ens e
+P b -f r e e
+ca teg o ry ( e4 )HF
+DE V IC E (1P) :M PU- 605 0 P O :H U B R E EL QTY (Q): 500 0
+L OT 1 (1 T ): Q 2 R 784 -F 1 D/C (D): 111 8 QTY (Q): 300 0
+LO T 2 (1 T ): Q3 V 215 - G 1 D /C (D ) :1107
+Q T Y ( Q) :2000
+Reel D ate : 18 / 05 /11
+QC ST A M P :
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+49 of 52
+11.9 Packaging
+REEL – with Barcode & Vacuum-Sealed Moisture MSL3 Label
+Caution labels Barrier Bag with ESD, MSL3,
+Caution, and Barcode Labels
+Caution Label ESD Label Inner Bubble Wrap
+Pizza Box Pizza Boxes Placed in Foam- Outer Shipper Label
+Lined Shipper Box
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+50 of 52
+11.10 Representative Shipping Carton Label
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+51 of 52
+12 Reliability
+12.1 Qualification Test Policy
+InvenSense’s products complete a Qualification Test Plan before being released to production. The
+Qualification Test Plan for the MPU-60X0 followed the JESD47I Standards, “Stress-Test-Driven Qualification
+of Integrated Circuits,” with the individual tests described below.
+12.2 Qualification Test Plan
+Accelerated Life Tests
+TEST Method/Condition
+Lot
+Quantity
+Sample /
+Lot
+Acc /
+Reject
+Criteria
+(HTOL/LFR)
+High Temperature Operating Life
+JEDEC JESD22-A108D, Dynamic, 3.63V biased,
+Tj>125°C [read-points 168, 500, 1000 hours]
+3 77 (0/1)
+(HAST)
+Highly Accelerated Stress Test (1)
+JEDEC JESD22-A118A
+Condition A, 130°C, 85%RH, 33.3 psia. unbiased, [read-
+point 96 hours]
+3 77 (0/1)
+(HTS)
+High Temperature Storage Life
+JEDEC JESD22-A103D, Cond. A, 125°C Non-Bias Bake
+[read-points 168, 500, 1000 hours]
+3
+77 (0/1)
+Device Component Level Tests
+TEST Method/Condition
+Lot
+Quantity
+Sample /
+Lot
+Acc /
+Reject
+Criteria
+(ESD-HBM)
+ESD-Human Body Model
+JEDEC JS-001-2012, (2KV) 1 3 (0/1)
+(ESD-MM)
+ESD-Machine Model
+JEDEC JESD22-A115C, (250V) 1 3 (0/1)
+(LU)
+Latch Up
+JEDEC JESD-78D Class II (2), 125°C; ±100mA 1 6 (0/1)
+(MS)
+Mechanical Shock
+JEDEC JESD22-B104C, Mil-Std-883,
+Method 2002.5, Cond. E, 10,000g’s, 0.2ms,
+±X, Y, Z – 6 directions, 5 times/direction
+3
+5
+(0/1)
+(VIB)
+Vibration
+JEDEC JESD22-B103B, Variable Frequency (random),
+Cond. B, 5-500Hz,
+X, Y, Z – 4 times/direction
+3 5 (0/1)
+(TC)
+Temperature Cycling (1)
+JEDEC JESD22-A104D
+Condition G [-40°C to +125°C],
+Soak Mode 2 [5’], 1000 cycles
+3 77 (0/1)
+Board Level Tests
+TEST Method/Condition
+Lot
+Quantity
+Sample /
+Lot
+Acc /
+Reject
+Criteria
+(BMS)
+Board Mechanical Shock
+JEDEC JESD22-B104C,Mil-Std-883,
+Method 2002.5, Cond. E, 10000g’s, 0.2ms,
++-X, Y, Z – 6 directions, 5 times/direction
+1
+5
+(0/1)
+(BTC)
+Board
+Temperature Cycling (1)
+JEDEC JESD22-A104D
+Condition G [ -40°C to +125°C],
+Soak mode 2 [5’], 1000 cycles
+1 40 (0/1)
+(1) Tests are preceded by MSL3 Preconditioning in accordance with JEDEC JESD22-A113F
+MPU-6000/MPU-6050 Product Specification
+Document Number: PS-MPU-6000A-00
+Revision: 3.4
+Release Date: 08/19/2013
+52 of 52
+13 Environmental Compliance
+The MPU-6000/MPU-6050 is RoHS and Green compliant.
+The MPU-6000/MPU-6050 is in full environmental compliance as evidenced in report HS-MPU-6000,
+Materials Declaration Data Sheet.
+Environmental Declaration Disclaimer:
+InvenSense believes this environmental information to be correct but cannot guarantee accuracy or completeness. Conformity
+documents for the above component constitutes are on file. InvenSense subcontracts manufacturing and the information contained
+herein is based on data received from vendors and suppliers, which has not been validated by InvenSense.
+This information furnished by InvenSense is believed to be accurate and reliable. However, no responsibility is assumed by InvenSense
+for its use, or for any infringements of patents or other rights of third parties that may result from its use. Specifications are subject to
+change without notice. InvenSense reserves the right to make changes to this product, including its circuits and software, in order to
+improve its design and/or performance, without prior notice. InvenSense makes no warranties, neither expressed nor implied, regarding
+the information and specifications contained in this document. InvenSense assumes no responsibility for any claims or damages arising
+from information contained in this document, or from the use of products and services detailed therein. This includes, but is not limited
+to, claims or damages based on the infringement of patents, copyrights, mask work and/or other intellectual property rights.
+Certain intellectual property owned by InvenSense and described in this document is patent protected. No license is granted by
+implication or otherwise under any patent or patent rights of InvenSense. This publication supersedes and replaces all information
+previously supplied. Trademarks that are registered trademarks are the property of their respective companies. InvenSense sensors
+should not be used or sold in the development, storage, production or utilization of any conventional or mass-destructive weapons or for
+any other weapons or life threatening applications, as well as in any other life critical applications such as medical equipment,
+transportation, aerospace and nuclear instruments, undersea equipment, power plant equipment, disaster prevention and crime
+prevention equipment.
+InvenSense® is a registered trademark of InvenSense, Inc. MPU TM , MPU-6000 TM , MPU-6050 TM , MPU-60X0 TM , Digital Motion
+Processor ™ , DMP ™ , Motion Processing Unit™, MotionFusion™, MotionInterface™, MotionTracking™, and MotionApps™ are
+trademarks of InvenSense, Inc.
+©2013 InvenSense, Inc. All rights reserved.
