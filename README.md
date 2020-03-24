@@ -24,4 +24,5 @@ Cal of Average sign entropy in English
 	2. H(2) <---------**FINISHED**
 	3. H(3) 
 
-
+BREAK: 算法得做修改。在H(3)到H(4)的有效数据占比越来越小。完全遍历时间难以接受。
+顺便把前面屎山修一下。
