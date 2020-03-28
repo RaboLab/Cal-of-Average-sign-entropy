@@ -26,3 +26,6 @@ Cal of Average sign entropy in English
 
 BREAK: 算法得做修改。在H(3)到H(4)的有效数据占比越来越小。完全遍历时间难以接受。
 顺便把前面屎山修一下。
+
+
+太占内存  继续改
