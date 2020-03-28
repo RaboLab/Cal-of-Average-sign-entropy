@@ -1,1 +1,6 @@
-﻿  Project1.vcxproj -> C:\Users\RaboLab\Desktop\Cal-of-Average-sign-entropy\Project1\Debug\Project1.exe
+﻿  calcu.cpp
+c:\users\rabolab\desktop\cal-of-average-sign-entropy\project1\project1\calcu.cpp(39): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\rabolab\desktop\cal-of-average-sign-entropy\project1\project1\calcu.cpp(64): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\rabolab\desktop\cal-of-average-sign-entropy\project1\project1\calcu.cpp(115): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+c:\users\rabolab\desktop\cal-of-average-sign-entropy\project1\project1\calcu.cpp(176): warning C4244: “+=”: 从“float”转换到“int”，可能丢失数据
+  Project1.vcxproj -> C:\Users\RaboLab\Desktop\Cal-of-Average-sign-entropy\Project1\Debug\Project1.exe

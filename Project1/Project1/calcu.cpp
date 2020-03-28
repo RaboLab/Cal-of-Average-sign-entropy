@@ -2,6 +2,13 @@
 #include "include.h"
 #include "math.h"
 
+class h3struct
+{
+public:
+	char type[4]={0,0,0,0};
+	float count=0;
+};
+int numb = 0;
 void calcu(string &str) {
 	char chars[27];
 	for (char mark = 'a'; mark <= 'z'; mark++)
@@ -53,7 +60,7 @@ void calcu(string &str) {
 		else
 			ary[str[i] - 'a'][str[i + 1] - 'a']++;
 	}
-
+	total = 0;
 	for (int i = 0; i < 27; i++) for (int j = 0; j < 27; j++) total += ary[i][j];				//得到total
 	cout << "H[2] chapter.3 Finished" << endl;
 	for (int i = 0; i < 27; i++) for (int j = 0; j < 27; j++) ary[i][j] = ary[i][j] / total;
@@ -134,87 +141,46 @@ void calcu(string &str) {
 
 	//End---------------H[3] ----------------
 
+
+
 	cout << "Calculating H4" << endl;
 	//H[4] ----------------
-	float ****D2D;//声明指针
-	D2D = new float ***[27];//定义X的长度
+	
+	h3struct *p = new h3struct [len - 3];
 
-	for (int x = 0; x < 27; x++)//在X的内部，定义Y
-	{
-		D2D[x] = new float **[27];//定义Y的长度
-
-		for (int y = 0; y < 27; y++)//在xy的内部，定义Z
-		{
-			D2D[x][y] = new float *[27];//定义Z的长度
-			for (int z = 0; z < 27; z++)//在xyz的内部，定义i
-			{
-				D2D[x][y][z] = new float[27];//定义i的长度
-			}
-		}
-	}
-
-	for (int i = 0; i < 27; i++)
-		for (int j = 0; j < 27; j++)
-			for (int k = 0; k < 27; k++)
-				for(int z = 0; z < 27; z++)
-					D2D[i][j][k][z] = 0;
 	for (int i = 0; i < len - 3; i++)
 	{
-		cout << D2D[1][1][1][1] << endl;
-		if (str[i] == ' ')
+begin:
+		for (int n = 0; n <= i; n++)
 		{
-			if (str[i + 2] == ' ')
-				D2D[26][str[i + 1] - 'a'][26][str[i + 3] - 'a']++;
-			else if (str[i + 3] == ' ')
-				D2D[26][str[i + 1] - 'a'][str[i + 2] - 'a'][26]++;
+			if (p[n].type[i + 0] == str[i + 0] &&
+				p[n].type[i + 1] == str[i + 1] &&
+				p[n].type[i + 2] == str[i + 2] &&
+				p[n].type[i + 3] == str[i + 3]) 
+			{
+				p[n].count++;
+				i++;
+				goto begin;
+			}
 		}
-		else if (str[i + 1] == ' ')
-		{
-			if (str[i + 3] == ' ')
-				D2D[str[i] - 'a'][26][str[i + 2] - 'a'][26]++;
-			else
-				D2D[str[i] - 'a'][26][str[i + 2] - 'a'][str[i + 3] - 'a']++;
-		}
-		else if (str[i + 2] == ' ')
-			D2D[str[i] - 'a'][str[i + 1] - 'a'][26]++;
+		p[numb].type[i + 0] = str[i + 0];
+		p[numb].type[i + 1] = str[i + 1];
+		p[numb].type[i + 2] = str[i + 2];
+		p[numb].type[i + 3] = str[i + 3];
+		p[numb].count++;
+		numb++;
 
-		else if (str[i + 3] == ' ')
-			D2D[str[i] - 'a'][str[i + 1] - 'a'][26][str[i + 3] - 'a']++;
-		else
-			D2D[str[i] - 'a'][str[i + 1] - 'a'][str[i + 2] - 'a'][str[i + 3] - 'a']++;
-		
 	}
-
-	for (int i = 0; i < 27; i++)
-		for (int j = 0; j < 27; j++)
-			for (int k = 0; k < 27; k++)
-				for (int x = 0; x < 27; x++)
-					total += D2D[i][j][k][x];
-	for (int i = 0; i < 27; i++)
-		for (int j = 0; j < 27; j++)
-			for (int k = 0; k < 27; k++)
-				for (int x = 0; x < 27; x++)
-					D2D[i][j][k][x] /= total;
-	for (int i = 0; i < 27; i++)
-		for (int j = 0; j < 27; j++)
-			for (int k = 0; k < 27; k++)
-				for (int x = 0; x < 27; x++)
-					if (D2D[i][j][k][x])
-						h[3] -= D2D[i][j][k][x] * log2(D2D[i][j][k][x]);
+	total = 0;
+	for (int i = 0; i < numb; i++)
+		total += p[i].count;
+	for (int i = 0; i < numb; i++)
+		p[i].count /= total;
+	for (int i = 0; i < numb; i++)
+			h[3] -= p[i].count * log2(p[i].count);
 	h[3] /= 4;
 
-
-
-	for (int x = 0; x < 27; x++)
-		for (int y = 0; y < 27; y++)
-			for (int z = 0; z < 27; z++)
-				delete[] D2D[x][y][z];//释放Z这一层
-	for (int x = 0; x < 27; x++)
-		for (int y = 0; y < 27; y++)
-		delete[] D2D[x][y];//释放Y这一层
-	for (int x = 0; x < 27; x++)
-		delete[] D2D[x];
-	delete[] D2D;//释放X这一层
+	delete[] p;
 
 	//End----------H[4]-------------
 	cout << h[0] << endl;
