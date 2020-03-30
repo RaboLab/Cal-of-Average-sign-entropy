@@ -76,6 +76,7 @@
       <Optimization>Disabled</Optimization>
       <SDLCheck>true</SDLCheck>
       <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>./header;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
     </ClCompile>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
@@ -115,19 +116,19 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="calcu.cpp" />
-    <ClCompile Include="process.cpp" />
-    <ClCompile Include="源.cpp" />
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="calcu.h" />
-    <ClInclude Include="include.h" />
-    <ClInclude Include="process.h" />
+    <ClCompile Include="source\calcu.cpp" />
+    <ClCompile Include="source\process.cpp" />
+    <ClCompile Include="source\源.cpp" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="calcu!.txt" />
     <Text Include="test.txt" />
     <Text Include="wuhu!.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header\calcu.h" />
+    <ClInclude Include="header\include.h" />
+    <ClInclude Include="header\process.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -15,26 +15,15 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="源.cpp">
+    <ClCompile Include="source\calcu.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="process.cpp">
+    <ClCompile Include="source\process.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="calcu.cpp">
+    <ClCompile Include="source\源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-  </ItemGroup>
-  <ItemGroup>
-    <ClInclude Include="include.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="process.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
-    <ClInclude Include="calcu.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <Text Include="calcu!.txt">
@@ -46,5 +35,16 @@
     <Text Include="wuhu!.txt">
       <Filter>资源文件</Filter>
     </Text>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="header\calcu.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="header\include.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="header\process.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
