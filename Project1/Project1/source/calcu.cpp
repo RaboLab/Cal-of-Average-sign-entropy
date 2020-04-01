@@ -3,11 +3,11 @@
 #include "math.h"
 long int start;
 long int band;
-class h1struct		//H2
+class h1struct		//H2		结构体声明，计算出现概率
 {
 public:
-	char type[2] = { 0,0 };
-	float count = 0;
+	char type[2] = { 0,0 };		//字符类型
+	float count = 0;			//计数
 };
 class h2struct
 {
@@ -39,15 +39,13 @@ public:
 	float count = 0;
 };
 void calcu(string &str) {
-	char chars[27];
 	int numb = 0;
-	for (char mark = 'a'; mark <= 'z'; mark++)
-		chars[mark - 'a'] = mark;
-	chars[26] = ' ';
-	float list[27] = { 0 };
+	float list[27] = { 0 };		//H1记录 
 	int len = str.length();
 	int total = 0;
 	double h[6] = { 0 };
+
+
 	start = clock();
 	for (char mark = 'a'; mark <= 'z'; mark++) 
 		for (int i = 0; i < len; i++) if (str[i] == mark) list[mark-'a']++;
@@ -66,17 +64,18 @@ void calcu(string &str) {
 		if (list[i]) h[0] -= list[i] * log2(list[i]); 
 	}
 	cout << "H[1] calculated" << endl;
+	cout << h[0] << endl;
 	band = clock();
-	cout << "用时" << (double)((band - start) / 1000) << "秒。" << endl;
+	cout << "用时" << (int)((band - start) / 1000) << "." << (band - start) - ((int)((band - start) / 1000)) * 1000 << "秒。" << endl;
 
 	//H[2] ----------------
 	start = clock();
 	h1struct *p1 = new h1struct[len - 1];
-	for (int i = 0; i < len - 1; i++)
+	for (int i = 0; i < len - 1; i++)	//遍历字符串
 	{
 	begin1:
 		if (i >= len - 1) break;
-		for (int n = 0; n <= i; n++)
+		for (int n = 0; n <= i; n++)		//现有保存字符和新字符串对比，相同count+1；不同就新建一个字符类型，count+1
 		{
 			if (p1[n].type[0] == str[i + 0] &&
 				p1[n].type[1] == str[i + 1]
@@ -93,7 +92,7 @@ void calcu(string &str) {
 		numb++;
 	}
 	total = 0;
-	for (int i = 0; i < numb; i++)
+	for (int i = 0; i < numb; i++)				//计算H2
 		total += p1[i].count;
 	for (int i = 0; i < numb; i++)
 		p1[i].count /= total;
@@ -103,8 +102,9 @@ void calcu(string &str) {
 	delete[] p1;
 	numb = 0;
 	cout << "H[2] calculated" << endl;
+	cout << h[1] << endl;
 	band = clock();
-	cout << "用时" << (double)((band - start) / 1000) << "秒。" << endl;
+	cout << "用时" << (int)((band - start) / 1000) << "." << (band - start)-((int)((band - start) / 1000))*1000 <<"秒。" << endl;
 
 	//H[3] ----------------
 	start = clock();
@@ -141,9 +141,9 @@ void calcu(string &str) {
 	delete[] p2;
 	numb = 0;
 	cout << "H[3] calculated" << endl;
-
+	cout << h[2] << endl;
 	band = clock();
-	cout << "用时" << (double)((band - start) / 1000) << "秒。" << endl;
+	cout << "用时" << (int)((band - start) / 1000) << "." << (band - start) - ((int)((band - start) / 1000)) * 1000 << "秒。" << endl;
 	//End---------------H[3] ----------------
 
 
@@ -186,9 +186,11 @@ void calcu(string &str) {
 	delete[] p;
 	numb = 0;
 	cout << "H[4] calculated" << endl;
-
+	cout << h[3] << endl;
 	band = clock();
-	cout << "用时" << (double)((band - start) / 1000) << "秒。" << endl;
+	cout << "用时" << (int)((band - start) / 1000) << "." << (band - start) - ((int)((band - start) / 1000)) * 1000 << "秒。" << endl;
+
+
 	//End----------H[4]-------------
 	start = clock();
 	h4struct *p4 = new h4struct[len - 4];
@@ -224,24 +226,23 @@ void calcu(string &str) {
 		p4[i].count /= total;
 	for (int i = 0; i < numb; i++)
 		h[4] -= p4[i].count * log2(p4[i].count);
-	h[4] /= 4;
+	h[4] /= 5;
 	delete[] p4;
 	numb = 0;
 	cout << "H[5] calculated" << endl;
-
-	band = clock();
-	cout << "用时" << (double)((band - start) / 1000) << "秒。" << endl;
-
-	cout << h[0] << endl;
-	cout << h[1] << endl;
-	cout << h[2] << endl;
-	cout << h[3] << endl;
 	cout << h[4] << endl;
-	cout << "计算完成，同时将结果保存到了calcu!.txt" << endl;
-	FILE *fp;		//debug部分,检查输出，通过！
-	fopen_s(&fp, "calcu!.txt", "w");
+	band = clock();
+	cout << "用时" << (int)((band - start) / 1000) << "." << (band - start) - ((int)((band - start) / 1000)) * 1000 << "秒。" << endl;
 
-	for (int i = 0; i < 2; i++) {
+	cout << "\n----------------------计算完成----------------------\n" << endl;
+	for (int i = 0; i < 5; i++) {
+		cout << "H" << i + 1 << "的值为： " << h[i] << "." <<  endl;
+	}
+	cout << "将文件保存到了answer.txt" << endl;
+	FILE *fp;		//debug部分,检查输出，通过！
+	fopen_s(&fp, "answer.txt", "w");
+
+	for (int i = 0; i < 5; i++) {
 		fprintf(fp, "H[%d] = %lf\n", i + 1, h[i]);
 	}
 

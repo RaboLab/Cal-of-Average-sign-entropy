@@ -57,7 +57,7 @@ string process(void) {
 
 	//--------------------输出,可直接删除--------------------
 	FILE *fp;		//debug部分,检查输出，通过！
-	fopen_s(&fp,"wuhu!.txt", "w");
+	fopen_s(&fp,"processed.txt", "w");
 
 	fprintf(fp, str.c_str());
 
@@ -66,8 +66,7 @@ string process(void) {
 	cout << "特殊符号处理完毕，处理完成后字符数量为：" << str.length() << "。" << endl;
 	band = clock();
 
-	cout << "用时" << (double)((band - start) / 1000) << "秒。" << endl;
-	cout << "特殊符号处理完毕，处理完成后字符数量为：" << str.length() << "。" << endl;
-	cout << "将处理后的文件同时保存为wuhu!.txt" << endl;
+	cout << "用时" << (int)((band - start) / 1000) << "." << (band - start) - ((int)((band - start) / 1000)) * 1000 << "秒。" << endl;
+	cout << "将处理后的文件同时保存为processed.txt" << endl;
 	return str;
 }
