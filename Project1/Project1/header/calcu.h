@@ -1,3 +1,3 @@
 #pragma once
 #include "include.h"
-void calcu(string &str);
+void calcu(string &str, FILE * fpa);

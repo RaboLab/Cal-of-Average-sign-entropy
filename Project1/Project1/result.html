@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+ 		<html>
+ 		<head>
+ 		<meta charset = "utf-8">
+ 		<title>display the entroy</title>
+ 		</head>
+ 		<body>
+ 		<div>H1-Average-sign-entropy</div>
+ 		<div class="chartdiv" id="chartdiv1"></div>
+ 		<div>H2-Average-sign-entropy</div>
+ 		<div class="chartdiv" id="chartdiv2"></div>
+ 		<div>H3-Average-sign-entropy</div>
+ 		<div class="chartdiv" id="chartdiv3"></div>
+ 		<div>H4-Average-sign-entropy</div>
+ 		<div class="chartdiv" id="chartdiv4"></div>
+ 		<div>H5-Average-sign-entropy</div>
+ 		<div class="chartdiv" id="chartdiv5"></div>
+ 		</body>
+ 		<style>
+ 		.chartdiv{ 
+ 		  width: 100 ; 
+ 		  height: 500px; 
+ 		} 
+ 		</style> 
+ 		<script src = "https://www.amcharts.com/lib/4/core.js"></script> 
+ 		<script src = "https://www.amcharts.com/lib/4/charts.js"></script> 
+ 		<script src = "https://www.amcharts.com/lib/4/themes/animated.js"></script> 
+ 		<script> 
+ 		am4core.ready(function() {
+ 		am4core.useTheme(am4themes_animated);
+ 		var chart = am4core.create("chartdiv1", am4charts.XYChart);
+ 		chart.paddingRight = 20;
+ 		chart.data = [
+{ "year": "s", "value": 0.294118 }, 
+{ "year": "d", "value": 0.294118 }, 
+{ "year": "g", "value": 0.117647 }, 
+{ "year": "a", "value": 0.176471 }, 
+{ "year": "f", "value": 0.117647 }, 
+];
+var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+ 		categoryAxis.dataFields.category = "year";
+ 	categoryAxis.renderer.minGridDistance = 50;
+ 	categoryAxis.renderer.grid.template.location = 0.5;
+ 	categoryAxis.startLocation = 0.5;
+ 	categoryAxis.endLocation = 0.5;
+ 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+ 	valueAxis.baseValue = 0;
+ 	var series = chart.series.push(new am4charts.LineSeries());
+ 	series.dataFields.valueY = "value";
+ 	series.dataFields.categoryX = "year";
+ 	series.strokeWidth = 2;
+ 	series.tensionX = 0.77;
+ 	var bullet = series.bullets.push(new am4charts.Bullet());
+ 	bullet.tooltipText = "{valueY}";
+ 	bullet.adapter.add("fill", function(fill, target){
+ 		if (target.dataItem.valueY < 0) {
+ 			return am4core.color("#FF0000");
+ 		}
+ 		return fill;
+ 	})
+ 		var range = valueAxis.createSeriesRange(series);
+ 	range.value = 0;
+ 	range.endValue = -1000;
+ 	range.contents.stroke = am4core.color("#FF0000");
+ 	range.contents.fill = range.contents.stroke;
+ 	var scrollbarX = new am4charts.XYChartScrollbar();
+ 	scrollbarX.series.push(series);
+ 	chart.scrollbarX = scrollbarX;
+ 	chart.cursor = new am4charts.XYCursor();
+ }); 
+am4core.ready(function() {
+ 		am4core.useTheme(am4themes_animated);
+ 		var chart = am4core.create("chartdiv2", am4charts.XYChart);
+ 		chart.paddingRight = 20;
+ 		chart.data = [
+{ "year": "sd", "value": 0.237037 }, 
+{ "year": "dg", "value": 0.059259 }, 
+{ "year": "gs", "value": 0.059259 }, 
+{ "year": "da", "value": 0.059259 }, 
+{ "year": "ag", "value": 0.059259 }, 
+{ "year": "ga", "value": 0.059259 }, 
+{ "year": "as", "value": 0.059259 }, 
+{ "year": "df", "value": 0.118519 }, 
+{ "year": "fs", "value": 0.118519 }, 
+{ "year": "sa", "value": 0.059259 }, 
+{ "year": "ad", "value": 0.059259 }, 
+{ "year": "ds", "value": 0.051852 }, 
+];
+var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+ 		categoryAxis.dataFields.category = "year";
+ 	categoryAxis.renderer.minGridDistance = 50;
+ 	categoryAxis.renderer.grid.template.location = 0.5;
+ 	categoryAxis.startLocation = 0.5;
+ 	categoryAxis.endLocation = 0.5;
+ 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+ 	valueAxis.baseValue = 0;
+ 	var series = chart.series.push(new am4charts.LineSeries());
+ 	series.dataFields.valueY = "value";
+ 	series.dataFields.categoryX = "year";
+ 	series.strokeWidth = 2;
+ 	series.tensionX = 0.77;
+ 	var bullet = series.bullets.push(new am4charts.Bullet());
+ 	bullet.tooltipText = "{valueY}";
+ 	bullet.adapter.add("fill", function(fill, target){
+ 		if (target.dataItem.valueY < 0) {
+ 			return am4core.color("#FF0000");
+ 		}
+ 		return fill;
+ 	})
+ 		var range = valueAxis.createSeriesRange(series);
+ 	range.value = 0;
+ 	range.endValue = -1000;
+ 	range.contents.stroke = am4core.color("#FF0000");
+ 	range.contents.fill = range.contents.stroke;
+ 	var scrollbarX = new am4charts.XYChartScrollbar();
+ 	scrollbarX.series.push(series);
+ 	chart.scrollbarX = scrollbarX;
+ 	chart.cursor = new am4charts.XYCursor();
+ }); 
+am4core.ready(function() {
+ 		am4core.useTheme(am4themes_animated);
+ 		var chart = am4core.create("chartdiv3", am4charts.XYChart);
+ 		chart.paddingRight = 20;
+ 		chart.data = [
+{ "year": "sdg", "value": 0.059701 }, 
+{ "year": "dgs", "value": 0.059701 }, 
+{ "year": "gsd", "value": 0.059701 }, 
+{ "year": "sda", "value": 0.059701 }, 
+{ "year": "dag", "value": 0.059701 }, 
+{ "year": "aga", "value": 0.059701 }, 
+{ "year": "gas", "value": 0.059701 }, 
+{ "year": "asd", "value": 0.059701 }, 
+{ "year": "sdf", "value": 0.059701 }, 
+{ "year": "dfs", "value": 0.119403 }, 
+{ "year": "fsa", "value": 0.059701 }, 
+{ "year": "sad", "value": 0.059701 }, 
+{ "year": "adf", "value": 0.059701 }, 
+{ "year": "fsd", "value": 0.059701 }, 
+{ "year": "sds", "value": 0.052239 }, 
+{ "year": "dsd", "value": 0.052239 }, 
+];
+var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+ 		categoryAxis.dataFields.category = "year";
+ 	categoryAxis.renderer.minGridDistance = 50;
+ 	categoryAxis.renderer.grid.template.location = 0.5;
+ 	categoryAxis.startLocation = 0.5;
+ 	categoryAxis.endLocation = 0.5;
+ 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+ 	valueAxis.baseValue = 0;
+ 	var series = chart.series.push(new am4charts.LineSeries());
+ 	series.dataFields.valueY = "value";
+ 	series.dataFields.categoryX = "year";
+ 	series.strokeWidth = 2;
+ 	series.tensionX = 0.77;
+ 	var bullet = series.bullets.push(new am4charts.Bullet());
+ 	bullet.tooltipText = "{valueY}";
+ 	bullet.adapter.add("fill", function(fill, target){
+ 		if (target.dataItem.valueY < 0) {
+ 			return am4core.color("#FF0000");
+ 		}
+ 		return fill;
+ 	})
+ 		var range = valueAxis.createSeriesRange(series);
+ 	range.value = 0;
+ 	range.endValue = -1000;
+ 	range.contents.stroke = am4core.color("#FF0000");
+ 	range.contents.fill = range.contents.stroke;
+ 	var scrollbarX = new am4charts.XYChartScrollbar();
+ 	scrollbarX.series.push(series);
+ 	chart.scrollbarX = scrollbarX;
+ 	chart.cursor = new am4charts.XYCursor();
+ }); 
+am4core.ready(function() {
+ 		am4core.useTheme(am4themes_animated);
+ 		var chart = am4core.create("chartdiv4", am4charts.XYChart);
+ 		chart.paddingRight = 20;
+ 		chart.data = [
+{ "year": "sdgs", "value": 0.060150 }, 
+{ "year": "dgsd", "value": 0.060150 }, 
+{ "year": "gsda", "value": 0.060150 }, 
+{ "year": "sdag", "value": 0.060150 }, 
+{ "year": "daga", "value": 0.060150 }, 
+{ "year": "agas", "value": 0.060150 }, 
+{ "year": "gasd", "value": 0.060150 }, 
+{ "year": "asdf", "value": 0.060150 }, 
+{ "year": "sdfs", "value": 0.060150 }, 
+{ "year": "dfsa", "value": 0.060150 }, 
+{ "year": "fsad", "value": 0.060150 }, 
+{ "year": "sadf", "value": 0.060150 }, 
+{ "year": "adfs", "value": 0.060150 }, 
+{ "year": "dfsd", "value": 0.060150 }, 
+{ "year": "fsds", "value": 0.052632 }, 
+{ "year": "sdsd", "value": 0.052632 }, 
+{ "year": "dsdg", "value": 0.052632 }, 
+];
+var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+ 		categoryAxis.dataFields.category = "year";
+ 	categoryAxis.renderer.minGridDistance = 50;
+ 	categoryAxis.renderer.grid.template.location = 0.5;
+ 	categoryAxis.startLocation = 0.5;
+ 	categoryAxis.endLocation = 0.5;
+ 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+ 	valueAxis.baseValue = 0;
+ 	var series = chart.series.push(new am4charts.LineSeries());
+ 	series.dataFields.valueY = "value";
+ 	series.dataFields.categoryX = "year";
+ 	series.strokeWidth = 2;
+ 	series.tensionX = 0.77;
+ 	var bullet = series.bullets.push(new am4charts.Bullet());
+ 	bullet.tooltipText = "{valueY}";
+ 	bullet.adapter.add("fill", function(fill, target){
+ 		if (target.dataItem.valueY < 0) {
+ 			return am4core.color("#FF0000");
+ 		}
+ 		return fill;
+ 	})
+ 		var range = valueAxis.createSeriesRange(series);
+ 	range.value = 0;
+ 	range.endValue = -1000;
+ 	range.contents.stroke = am4core.color("#FF0000");
+ 	range.contents.fill = range.contents.stroke;
+ 	var scrollbarX = new am4charts.XYChartScrollbar();
+ 	scrollbarX.series.push(series);
+ 	chart.scrollbarX = scrollbarX;
+ 	chart.cursor = new am4charts.XYCursor();
+ }); 
+am4core.ready(function() {
+ 		am4core.useTheme(am4themes_animated);
+ 		var chart = am4core.create("chartdiv5", am4charts.XYChart);
+ 		chart.paddingRight = 20;
+ 		chart.data = [
+{ "year": "sdgsd", "value": 0.060606 }, 
+{ "year": "dgsda", "value": 0.060606 }, 
+{ "year": "gsdag", "value": 0.060606 }, 
+{ "year": "sdaga", "value": 0.060606 }, 
+{ "year": "dagas", "value": 0.060606 }, 
+{ "year": "agasd", "value": 0.060606 }, 
+{ "year": "gasdf", "value": 0.060606 }, 
+{ "year": "asdfs", "value": 0.060606 }, 
+{ "year": "sdfsa", "value": 0.060606 }, 
+{ "year": "dfsad", "value": 0.060606 }, 
+{ "year": "fsadf", "value": 0.060606 }, 
+{ "year": "sadfs", "value": 0.060606 }, 
+{ "year": "adfsd", "value": 0.060606 }, 
+{ "year": "dfsds", "value": 0.053030 }, 
+{ "year": "fsdsd", "value": 0.053030 }, 
+{ "year": "sdsdg", "value": 0.053030 }, 
+{ "year": "dsdgs", "value": 0.053030 }, 
+];
+var categoryAxis = chart.xAxes.push(new am4charts.CategoryAxis());
+ 		categoryAxis.dataFields.category = "year";
+ 	categoryAxis.renderer.minGridDistance = 50;
+ 	categoryAxis.renderer.grid.template.location = 0.5;
+ 	categoryAxis.startLocation = 0.5;
+ 	categoryAxis.endLocation = 0.5;
+ 	var valueAxis = chart.yAxes.push(new am4charts.ValueAxis());
+ 	valueAxis.baseValue = 0;
+ 	var series = chart.series.push(new am4charts.LineSeries());
+ 	series.dataFields.valueY = "value";
+ 	series.dataFields.categoryX = "year";
+ 	series.strokeWidth = 2;
+ 	series.tensionX = 0.77;
+ 	var bullet = series.bullets.push(new am4charts.Bullet());
+ 	bullet.tooltipText = "{valueY}";
+ 	bullet.adapter.add("fill", function(fill, target){
+ 		if (target.dataItem.valueY < 0) {
+ 			return am4core.color("#FF0000");
+ 		}
+ 		return fill;
+ 	})
+ 		var range = valueAxis.createSeriesRange(series);
+ 	range.value = 0;
+ 	range.endValue = -1000;
+ 	range.contents.stroke = am4core.color("#FF0000");
+ 	range.contents.fill = range.contents.stroke;
+ 	var scrollbarX = new am4charts.XYChartScrollbar();
+ 	scrollbarX.series.push(series);
+ 	chart.scrollbarX = scrollbarX;
+ 	chart.cursor = new am4charts.XYCursor();
+ }); 
+</script>

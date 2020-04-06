@@ -1,1 +1,8 @@
 同目录下命名为test.txt。然后执行文件。
+会有answer文件夹创建，里面生成答案
+├─main.exe
+├─result.html
+│
+└─answer
+    ├─processed.txt     消除特殊字符，归一化处理
+    └─answer.txt	 显示结果

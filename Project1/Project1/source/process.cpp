@@ -1,6 +1,6 @@
 #include "include.h"
 #include "sstream"
-
+#include <direct.h>  
 extern clock_t start;
 extern clock_t band;
 string process(void) {
@@ -11,7 +11,7 @@ string process(void) {
 	ostringstream os;
 	long size;
 	char* buffer;
-
+	_mkdir("answer");
 	// 要读入整个文件，必须采用二进制打开 
 	filestr.open("test.txt", ios::in);
 	// 获取filestr对应buffer对象的指针 
@@ -57,7 +57,7 @@ string process(void) {
 
 	//--------------------输出,可直接删除--------------------
 	FILE *fp;		//debug部分,检查输出，通过！
-	fopen_s(&fp,"processed.txt", "w");
+	fopen_s(&fp,".//answer//processed.txt", "w");
 
 	fprintf(fp, str.c_str());
 

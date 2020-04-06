@@ -117,6 +117,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="source\calcu.cpp" />
+    <ClCompile Include="source\createHTML.cpp" />
     <ClCompile Include="source\process.cpp" />
     <ClCompile Include="source\源.cpp" />
   </ItemGroup>
@@ -127,6 +128,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="header\calcu.h" />
+    <ClInclude Include="header\createHTML.h" />
     <ClInclude Include="header\include.h" />
     <ClInclude Include="header\process.h" />
   </ItemGroup>

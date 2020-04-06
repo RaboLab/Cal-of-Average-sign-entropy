@@ -1,72 +1,87 @@
 #include "calcu.h"
 #include "include.h"
 #include "math.h"
+#include "createHTML.h"
 long int start;
 long int band;
+class h0struct		//H1		结构体声明，计算出现概率
+{
+public:
+	char type[2] = { 0,'\0' };		//字符类型
+	float count = 0;			//计数
+};
 class h1struct		//H2		结构体声明，计算出现概率
 {
 public:
-	char type[2] = { 0,0 };		//字符类型
+	char type[3] = { 0,0,'\0' };		//字符类型
 	float count = 0;			//计数
 };
 class h2struct
 {
 public:
-	char type[3] = { 0,0,0 };
+	char type[4] = { 0,0,0,'\0' };
 	float count = 0;
 };
 class h3struct
 {
 public:
-	char type[4]={0,0,0,0};
+	char type[5] = { 0,0,0,0,'\0' };
 	float count=0;
 };
 class h4struct
 {
 public:
-	char type[5] = { 0,0,0,0,0 };
+	char type[6] = { 0,0,0,0,0,'\0' };
 	float count = 0;
 };
-class h5struct
-{
-public:
-	char type[6] = { 0,0,0,0,0 };
-	float count = 0;
-}; class h6struct
-{
-public:
-	char type[7] = { 0,0,0,0,0 };
-	float count = 0;
-};
-void calcu(string &str) {
+void gettime(long &start, long &band) {
+	cout << "用时" << (int)((band - start) / 1000) << "." << (band - start) - ((int)((band - start) / 1000)) * 1000 << "秒。" << endl;
+}
+
+void calcu(string &str, FILE * fpa) {
 	int numb = 0;
 	float list[27] = { 0 };		//H1记录 
 	int len = str.length();
 	int total = 0;
-	double h[6] = { 0 };
+	double h[5] = { 0 };
 
 
 	start = clock();
-	for (char mark = 'a'; mark <= 'z'; mark++) 
-		for (int i = 0; i < len; i++) if (str[i] == mark) list[mark-'a']++;
-	for (int i = 0; i < len; i++) if (str[i] == ' ') list[26]++;
-
-	for (int i = 0; i < len; i++)
+	writeData(fpa, "chartdiv1");
+	h0struct *p0 = new h0struct[len];
+	for (int i = 0; i < len; i++)	//遍历字符串
 	{
-		if (str[i] == ' ')
-			list[26]++;
-		else
-			list[str[i] - 'a']++;
+	begin0:
+		if (i >= len) break;
+		for (int n = 0; n <= i; n++)		//现有保存字符和新字符串对比，相同count+1；不同就新建一个字符类型，count+1
+		{
+			if (p0[n].type[0] == str[i])
+			{
+				p0[n].count++;
+				i++;
+				goto begin0;
+			}
+		}
+		p0[numb].type[0] = str[i];
+		p0[numb].count++;
+		numb++;
 	}
-	for (int i = 0; i < 27; i++) total += list[i];				//得到total
-	for (int i = 0; i < 27; i++) list[i] = list[i] / total;     //得到概率
-	for (int i = 0; i < 27; i++) {
-		if (list[i]) h[0] -= list[i] * log2(list[i]); 
-	}
+	total = 0;
+	for (int i = 0; i < numb; i++)				//计算H1
+		total += p0[i].count;
+	for (int i = 0; i < numb; i++)
+		p0[i].count /= total;
+	for (int i = 0; i < numb; i++)
+		h[0] -= p0[i].count * log2(p0[i].count);
+	for (int i = 0; i < numb; i++)
+		fillData(fpa, p0[i].type, p0[i].count);
+	delete[] p0;
+	numb = 0;
 	cout << "H[1] calculated" << endl;
 	cout << h[0] << endl;
+	endData(fpa, "chartdiv1");
 	band = clock();
-	cout << "用时" << (int)((band - start) / 1000) << "." << (band - start) - ((int)((band - start) / 1000)) * 1000 << "秒。" << endl;
+	gettime(start,band);
 
 	//H[2] ----------------
 	start = clock();
@@ -98,6 +113,10 @@ void calcu(string &str) {
 		p1[i].count /= total;
 	for (int i = 0; i < numb; i++)
 		h[1] -= p1[i].count * log2(p1[i].count);
+	writeData(fpa, "chartdiv2");
+	for (int i = 0; i < numb; i++)
+		fillData(fpa, p1[i].type, p1[i].count);
+	endData(fpa, "chartdiv2");
 	h[1] /= 2;
 	delete[] p1;
 	numb = 0;
@@ -137,6 +156,10 @@ void calcu(string &str) {
 		p2[i].count /= total;
 	for (int i = 0; i < numb; i++)
 		h[2] -= p2[i].count * log2(p2[i].count);
+	writeData(fpa, "chartdiv3");
+	for (int i = 0; i < numb; i++)
+		fillData(fpa, p2[i].type, p2[i].count);
+	endData(fpa, "chartdiv3");
 	h[2] /= 3;
 	delete[] p2;
 	numb = 0;
@@ -182,6 +205,10 @@ void calcu(string &str) {
 		p[i].count /= total;
 	for (int i = 0; i < numb; i++)
 			h[3] -= p[i].count * log2(p[i].count);
+	writeData(fpa, "chartdiv4");
+	for (int i = 0; i < numb; i++)
+		fillData(fpa, p[i].type, p[i].count);
+	endData(fpa, "chartdiv4");
 	h[3] /= 4;
 	delete[] p;
 	numb = 0;
@@ -226,6 +253,10 @@ void calcu(string &str) {
 		p4[i].count /= total;
 	for (int i = 0; i < numb; i++)
 		h[4] -= p4[i].count * log2(p4[i].count);
+	writeData(fpa, "chartdiv5");
+	for (int i = 0; i < numb; i++)
+		fillData(fpa, p4[i].type, p4[i].count);
+	endData(fpa, "chartdiv5");
 	h[4] /= 5;
 	delete[] p4;
 	numb = 0;
@@ -238,13 +269,14 @@ void calcu(string &str) {
 	for (int i = 0; i < 5; i++) {
 		cout << "H" << i + 1 << "的值为： " << h[i] << "." <<  endl;
 	}
-	cout << "将文件保存到了answer.txt" << endl;
+	cout << "已知H0 = 4.7,由统计归纳法，现取H∞约等于H5-0.5；则冗余度n=" << 1.0 - (h[4]-0.5) / 4.7 << endl;
+	cout << "将文件保存到了answer.txt\n" << endl;
 	FILE *fp;		//debug部分,检查输出，通过！
-	fopen_s(&fp, "answer.txt", "w");
+	fopen_s(&fp, ".//answer//answer.txt", "w");
 
 	for (int i = 0; i < 5; i++) {
 		fprintf(fp, "H[%d] = %lf\n", i + 1, h[i]);
 	}
-
+	fprintf(fp, "冗余度n = %lf\n", 1.0 - (h[4] - 0.5) / 4.7);
 	fclose(fp);
 }

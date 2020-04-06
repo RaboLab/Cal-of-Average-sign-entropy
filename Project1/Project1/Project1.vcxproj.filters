@@ -24,6 +24,9 @@
     <ClCompile Include="source\源.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="source\createHTML.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <Text Include="calcu!.txt">
@@ -44,6 +47,9 @@
       <Filter>头文件</Filter>
     </ClInclude>
     <ClInclude Include="header\process.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="header\createHTML.h">
       <Filter>头文件</Filter>
     </ClInclude>
   </ItemGroup>

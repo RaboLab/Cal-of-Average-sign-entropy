@@ -1,5 +1,1 @@
-﻿  process.cpp
-c:\users\rabolab\desktop\cal-of-average-sign-entropy\project1\project1\source\process.cpp(21): warning C4244: “=”: 从“std::streamoff”转换到“long”，可能丢失数据
-c:\users\rabolab\desktop\cal-of-average-sign-entropy\project1\project1\source\process.cpp(41): warning C4018: “<”: 有符号/无符号不匹配
-c:\users\rabolab\desktop\cal-of-average-sign-entropy\project1\project1\source\process.cpp(50): warning C4018: “<”: 有符号/无符号不匹配
-  Project1.vcxproj -> C:\Users\RaboLab\Desktop\Cal-of-Average-sign-entropy\Project1\Debug\Project1.exe
+﻿  Project1.vcxproj -> C:\Users\RaboLab\Desktop\Cal-of-Average-sign-entropy\Project1\Debug\Project1.exe
